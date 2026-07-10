@@ -1,0 +1,31 @@
+campaign_id,campaign_name,marketing_channel,start_date,end_date,spend,target_category,campaign_goal
+1,Shorts Refresh,Paid Search,2025-08-02,2025-08-27,23781.0,Shorts,Conversion
+2,Performance Tees Performance Campaign,Organic Social,2025-03-12,2025-04-19,37360.0,Performance Tees,Awareness
+3,Outerwear Promo,Organic Social,2025-07-23,2025-08-28,35439.0,Outerwear,Conversion
+4,Polos Refresh,Email,2025-04-23,2025-05-07,40844.0,Polos,Markdown Support
+5,Joggers Seasonal Push,Influencer,2025-07-30,2025-08-21,24662.0,Joggers,Conversion
+6,Half-Zips Refresh,Organic Social,2025-06-17,2025-07-01,24576.0,Half-Zips,Retention
+7,Accessories Performance Campaign,Affiliate,2025-03-19,2025-04-19,10762.0,Accessories,Markdown Support
+8,Shorts Seasonal Push,Affiliate,2025-10-29,2025-11-16,21464.0,Shorts,Product Launch
+9,Hoodies Launch,Affiliate,2025-02-19,2025-03-31,27159.0,Hoodies,Retention
+10,Leggings Seasonal Push,Email,2025-09-16,2025-10-19,12029.0,Leggings,Retention
+11,Accessories Launch,Organic Social,2025-05-29,2025-07-08,31706.0,Accessories,Retention
+12,Half-Zips Performance Campaign,Organic Social,2025-10-12,2025-11-09,11973.0,Half-Zips,Conversion
+13,Hoodies Performance Campaign,Paid Search,2025-07-16,2025-08-15,10037.0,Hoodies,Markdown Support
+14,Leggings Seasonal Push,Email,2025-08-17,2025-08-29,6054.0,Leggings,Awareness
+15,Hoodies Promo,Organic Social,2025-03-15,2025-03-30,29354.0,Hoodies,Awareness
+16,Polos Performance Campaign,Paid Search,2025-06-28,2025-08-05,12290.0,Polos,Product Launch
+17,Shorts Seasonal Push,Organic Social,2025-10-25,2025-11-10,39205.0,Shorts,Retention
+18,Shorts Launch,Affiliate,2025-03-18,2025-04-30,32986.0,Shorts,Product Launch
+19,Shorts Promo,Paid Search,2025-06-16,2025-07-04,20329.0,Shorts,Retention
+20,Polos Launch,Paid Social,2025-06-25,2025-07-27,38583.0,Polos,Retention
+21,Hoodies Refresh,Influencer,2025-10-04,2025-11-02,8760.0,Hoodies,Markdown Support
+22,Joggers Launch,Email,2025-09-13,2025-10-21,24553.0,Joggers,Markdown Support
+23,Outerwear Launch,Paid Social,2025-09-19,2025-10-20,19742.0,Outerwear,Retention
+24,Performance Tees Refresh,Influencer,2025-07-28,2025-09-04,6284.0,Performance Tees,Conversion
+25,Outerwear Performance Campaign,Organic Social,2025-01-17,2025-02-17,16771.0,Outerwear,Retention
+26,Hoodies Launch,Organic Social,2025-10-24,2025-12-07,11878.0,Hoodies,Retention
+27,Shorts Performance Campaign,Paid Search,2025-03-22,2025-04-14,16014.0,Shorts,Markdown Support
+28,Joggers Refresh,Influencer,2025-02-05,2025-02-24,22864.0,Joggers,Markdown Support
+29,Hoodies Promo,Paid Search,2025-09-04,2025-10-07,6806.0,Hoodies,Markdown Support
+30,Leggings Seasonal Push,Affiliate,2025-03-15,2025-04-20,11805.0,Leggings,Awareness

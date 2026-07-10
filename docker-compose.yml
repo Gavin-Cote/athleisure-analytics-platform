@@ -1,0 +1,17 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: athleisure_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: athleisure_user
+      POSTGRES_PASSWORD: athleisure_password
+      POSTGRES_DB: athleisure_db
+    ports:
+      - "5433:5432"
+    volumes:
+      - athleisure_postgres_data:/var/lib/postgresql/data
+      - ./sql/schema.sql:/docker-entrypoint-initdb.d/01_schema.sql
+
+volumes:
+  athleisure_postgres_data:

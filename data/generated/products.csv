@@ -1,0 +1,1105 @@
+product_id,product_name,category,gender,color,size,season,unit_cost,retail_price,launch_date,product_status
+1,Transit Performance Jogger,Joggers,Men,Forest,XS,Winter,42.48,119.0,2024-12-02,active
+2,Transit Performance Jogger,Joggers,Men,Forest,S,Core,58.26,121.0,2024-11-24,active
+3,Transit Performance Jogger,Joggers,Men,Forest,M,Winter,45.15,111.0,2024-04-26,active
+4,Transit Performance Jogger,Joggers,Men,Forest,L,Fall,57.11,117.0,2024-12-15,active
+5,Transit Performance Jogger,Joggers,Men,Forest,XL,Core,46.18,105.0,2025-07-22,active
+6,Transit Performance Jogger,Joggers,Men,Black,XS,Winter,55.81,123.0,2024-04-15,active
+7,Transit Performance Jogger,Joggers,Men,Black,S,Winter,55.59,108.0,2024-10-12,active
+8,Transit Performance Jogger,Joggers,Men,Black,M,Fall,45.75,122.0,2024-08-20,active
+9,Transit Performance Jogger,Joggers,Men,Black,L,Core,36.41,99.0,2025-04-20,active
+10,Transit Performance Jogger,Joggers,Men,Black,XL,Core,62.21,121.0,2024-09-19,active
+11,Transit Performance Jogger,Joggers,Men,Stone,XS,Fall,46.27,109.0,2025-05-24,active
+12,Transit Performance Jogger,Joggers,Men,Stone,S,Fall,43.41,102.0,2024-07-30,active
+13,Transit Performance Jogger,Joggers,Men,Stone,M,Winter,49.41,118.0,2024-04-12,active
+14,Transit Performance Jogger,Joggers,Men,Stone,L,Fall,47.15,119.0,2025-05-06,active
+15,Transit Performance Jogger,Joggers,Men,Stone,XL,Summer,49.99,122.0,2025-07-28,active
+16,Transit Performance Jogger,Joggers,Men,Oat,XS,Core,43.45,119.0,2025-06-16,active
+17,Transit Performance Jogger,Joggers,Men,Oat,S,Fall,47.2,98.0,2025-05-14,active
+18,Transit Performance Jogger,Joggers,Men,Oat,M,Fall,57.18,119.0,2024-12-21,active
+19,Transit Performance Jogger,Joggers,Men,Oat,L,Fall,41.99,115.0,2024-06-06,active
+20,Transit Performance Jogger,Joggers,Men,Oat,XL,Spring,50.13,118.0,2025-07-01,active
+21,Transit Performance Jogger,Joggers,Women,Forest,XS,Spring,54.96,121.0,2024-12-27,active
+22,Transit Performance Jogger,Joggers,Women,Forest,S,Summer,45.39,115.0,2025-01-20,active
+23,Transit Performance Jogger,Joggers,Women,Forest,M,Core,42.03,111.0,2024-06-25,active
+24,Transit Performance Jogger,Joggers,Women,Forest,L,Core,47.38,124.0,2025-06-09,active
+25,Transit Performance Jogger,Joggers,Women,Forest,XL,Spring,41.64,106.0,2024-10-04,active
+26,Transit Performance Jogger,Joggers,Women,Black,XS,Fall,55.33,115.0,2025-09-29,active
+27,Transit Performance Jogger,Joggers,Women,Black,S,Summer,53.52,110.0,2024-07-24,active
+28,Transit Performance Jogger,Joggers,Women,Black,M,Winter,34.91,98.0,2025-05-08,active
+29,Transit Performance Jogger,Joggers,Women,Black,L,Core,41.33,112.0,2025-07-30,active
+30,Transit Performance Jogger,Joggers,Women,Black,XL,Spring,47.46,102.0,2024-11-13,active
+31,Transit Performance Jogger,Joggers,Women,Stone,XS,Winter,42.98,109.0,2025-03-13,active
+32,Transit Performance Jogger,Joggers,Women,Stone,S,Summer,38.78,109.0,2024-08-07,active
+33,Transit Performance Jogger,Joggers,Women,Stone,M,Fall,63.95,127.0,2024-11-12,active
+34,Transit Performance Jogger,Joggers,Women,Stone,L,Summer,54.53,106.0,2024-06-17,active
+35,Transit Performance Jogger,Joggers,Women,Stone,XL,Spring,50.51,120.0,2025-04-16,active
+36,Transit Performance Jogger,Joggers,Women,Oat,XS,Winter,50.25,100.0,2024-03-22,active
+37,Transit Performance Jogger,Joggers,Women,Oat,S,Fall,41.09,104.0,2025-06-01,active
+38,Transit Performance Jogger,Joggers,Women,Oat,M,Fall,50.9,103.0,2024-01-13,active
+39,Transit Performance Jogger,Joggers,Women,Oat,L,Spring,50.13,120.0,2024-07-16,active
+40,Transit Performance Jogger,Joggers,Women,Oat,XL,Winter,53.01,116.0,2025-02-06,active
+41,Transit Performance Jogger,Joggers,Unisex,Forest,XS,Spring,38.22,110.0,2024-04-24,active
+42,Transit Performance Jogger,Joggers,Unisex,Forest,S,Spring,39.53,108.0,2025-03-09,active
+43,Transit Performance Jogger,Joggers,Unisex,Forest,M,Core,43.0,116.0,2024-07-10,active
+44,Transit Performance Jogger,Joggers,Unisex,Forest,L,Summer,46.68,116.0,2025-01-26,active
+45,Transit Performance Jogger,Joggers,Unisex,Forest,XL,Fall,50.23,98.0,2024-09-24,active
+46,Transit Performance Jogger,Joggers,Unisex,Black,XS,Winter,43.3,122.0,2024-06-25,active
+47,Transit Performance Jogger,Joggers,Unisex,Black,S,Fall,57.5,113.0,2024-04-13,active
+48,Transit Performance Jogger,Joggers,Unisex,Black,M,Fall,43.46,112.0,2025-09-02,active
+49,Transit Performance Jogger,Joggers,Unisex,Black,L,Summer,47.77,114.0,2024-07-01,active
+50,Transit Performance Jogger,Joggers,Unisex,Black,XL,Summer,61.66,123.0,2024-12-13,active
+51,Transit Performance Jogger,Joggers,Unisex,Stone,XS,Spring,41.35,115.0,2025-03-02,active
+52,Transit Performance Jogger,Joggers,Unisex,Stone,S,Core,48.62,106.0,2025-04-12,active
+53,Transit Performance Jogger,Joggers,Unisex,Stone,M,Core,43.49,121.0,2025-01-28,active
+54,Transit Performance Jogger,Joggers,Unisex,Stone,L,Fall,36.41,105.0,2024-03-31,active
+55,Transit Performance Jogger,Joggers,Unisex,Stone,XL,Core,53.34,109.0,2024-10-21,active
+56,Transit Performance Jogger,Joggers,Unisex,Oat,XS,Winter,54.73,107.0,2025-02-10,active
+57,Transit Performance Jogger,Joggers,Unisex,Oat,S,Spring,43.63,113.0,2025-09-26,active
+58,Transit Performance Jogger,Joggers,Unisex,Oat,M,Core,35.85,103.0,2024-07-10,active
+59,Transit Performance Jogger,Joggers,Unisex,Oat,L,Core,64.06,128.0,2024-02-28,active
+60,Transit Performance Jogger,Joggers,Unisex,Oat,XL,Fall,62.6,125.0,2024-03-15,active
+61,Sunday Lounge Jogger,Joggers,Men,Navy,XS,Summer,59.3,125.0,2024-03-01,active
+62,Sunday Lounge Jogger,Joggers,Men,Navy,S,Spring,37.57,98.0,2025-08-22,active
+63,Sunday Lounge Jogger,Joggers,Men,Navy,M,Spring,36.76,100.0,2025-06-15,active
+64,Sunday Lounge Jogger,Joggers,Men,Navy,L,Spring,54.22,109.0,2025-01-18,active
+65,Sunday Lounge Jogger,Joggers,Men,Navy,XL,Core,50.87,106.0,2024-07-17,active
+66,Sunday Lounge Jogger,Joggers,Men,Heather Grey,XS,Spring,41.35,113.0,2024-11-16,active
+67,Sunday Lounge Jogger,Joggers,Men,Heather Grey,S,Winter,37.46,103.0,2024-05-26,active
+68,Sunday Lounge Jogger,Joggers,Men,Heather Grey,M,Winter,55.19,128.0,2024-03-18,active
+69,Sunday Lounge Jogger,Joggers,Men,Heather Grey,L,Core,45.49,121.0,2025-01-06,active
+70,Sunday Lounge Jogger,Joggers,Men,Heather Grey,XL,Spring,46.36,98.0,2025-04-02,active
+71,Sunday Lounge Jogger,Joggers,Men,Black,XS,Summer,56.27,111.0,2024-03-20,active
+72,Sunday Lounge Jogger,Joggers,Men,Black,S,Winter,54.78,128.0,2024-07-11,active
+73,Sunday Lounge Jogger,Joggers,Men,Black,M,Core,41.9,107.0,2025-09-03,active
+74,Sunday Lounge Jogger,Joggers,Men,Black,L,Winter,49.71,113.0,2024-01-16,active
+75,Sunday Lounge Jogger,Joggers,Men,Black,XL,Fall,45.29,124.0,2024-03-08,active
+76,Sunday Lounge Jogger,Joggers,Men,Oat,XS,Core,43.83,98.0,2025-09-10,active
+77,Sunday Lounge Jogger,Joggers,Men,Oat,S,Winter,50.9,120.0,2025-05-29,active
+78,Sunday Lounge Jogger,Joggers,Men,Oat,M,Core,44.6,124.0,2024-01-12,active
+79,Sunday Lounge Jogger,Joggers,Men,Oat,L,Fall,40.1,105.0,2025-05-24,active
+80,Sunday Lounge Jogger,Joggers,Men,Oat,XL,Winter,60.04,121.0,2025-01-22,active
+81,Sunday Lounge Jogger,Joggers,Women,Navy,XS,Fall,43.18,106.0,2024-09-21,active
+82,Sunday Lounge Jogger,Joggers,Women,Navy,S,Fall,50.11,101.0,2025-02-21,active
+83,Sunday Lounge Jogger,Joggers,Women,Navy,M,Winter,43.62,114.0,2024-06-07,active
+84,Sunday Lounge Jogger,Joggers,Women,Navy,L,Spring,44.51,124.0,2025-06-06,active
+85,Sunday Lounge Jogger,Joggers,Women,Navy,XL,Core,41.03,112.0,2025-01-15,active
+86,Sunday Lounge Jogger,Joggers,Women,Heather Grey,XS,Core,39.15,107.0,2024-07-17,active
+87,Sunday Lounge Jogger,Joggers,Women,Heather Grey,S,Spring,45.38,116.0,2024-04-15,active
+88,Sunday Lounge Jogger,Joggers,Women,Heather Grey,M,Spring,38.51,112.0,2024-03-14,active
+89,Sunday Lounge Jogger,Joggers,Women,Heather Grey,L,Fall,36.36,104.0,2024-04-21,active
+90,Sunday Lounge Jogger,Joggers,Women,Heather Grey,XL,Summer,46.43,113.0,2025-03-11,active
+91,Sunday Lounge Jogger,Joggers,Women,Black,XS,Core,63.68,128.0,2024-11-18,active
+92,Sunday Lounge Jogger,Joggers,Women,Black,S,Summer,42.48,114.0,2024-01-28,active
+93,Sunday Lounge Jogger,Joggers,Women,Black,M,Fall,46.5,105.0,2024-06-08,active
+94,Sunday Lounge Jogger,Joggers,Women,Black,L,Fall,43.17,106.0,2024-02-01,active
+95,Sunday Lounge Jogger,Joggers,Women,Black,XL,Spring,61.25,125.0,2024-03-06,active
+96,Sunday Lounge Jogger,Joggers,Women,Oat,XS,Core,39.36,110.0,2025-08-14,active
+97,Sunday Lounge Jogger,Joggers,Women,Oat,S,Core,62.99,122.0,2025-07-31,active
+98,Sunday Lounge Jogger,Joggers,Women,Oat,M,Winter,52.4,115.0,2025-05-13,active
+99,Sunday Lounge Jogger,Joggers,Women,Oat,L,Fall,52.38,120.0,2024-03-27,active
+100,Sunday Lounge Jogger,Joggers,Women,Oat,XL,Summer,53.76,127.0,2025-07-02,active
+101,Sunday Lounge Jogger,Joggers,Unisex,Navy,XS,Spring,46.17,119.0,2025-02-13,active
+102,Sunday Lounge Jogger,Joggers,Unisex,Navy,S,Summer,46.07,111.0,2024-11-01,active
+103,Sunday Lounge Jogger,Joggers,Unisex,Navy,M,Summer,43.84,108.0,2024-08-23,active
+104,Sunday Lounge Jogger,Joggers,Unisex,Navy,L,Summer,51.44,111.0,2024-08-30,active
+105,Sunday Lounge Jogger,Joggers,Unisex,Navy,XL,Fall,61.6,122.0,2025-08-30,active
+106,Sunday Lounge Jogger,Joggers,Unisex,Heather Grey,XS,Core,52.8,121.0,2024-07-29,active
+107,Sunday Lounge Jogger,Joggers,Unisex,Heather Grey,S,Fall,54.78,113.0,2025-02-21,active
+108,Sunday Lounge Jogger,Joggers,Unisex,Heather Grey,M,Winter,47.42,121.0,2025-02-09,active
+109,Sunday Lounge Jogger,Joggers,Unisex,Heather Grey,L,Core,46.04,99.0,2024-05-09,active
+110,Sunday Lounge Jogger,Joggers,Unisex,Heather Grey,XL,Spring,56.77,126.0,2024-03-25,active
+111,Sunday Lounge Jogger,Joggers,Unisex,Black,XS,Core,41.56,117.0,2025-04-09,active
+112,Sunday Lounge Jogger,Joggers,Unisex,Black,S,Core,61.51,120.0,2024-03-28,active
+113,Sunday Lounge Jogger,Joggers,Unisex,Black,M,Winter,52.9,110.0,2025-01-14,active
+114,Sunday Lounge Jogger,Joggers,Unisex,Black,L,Fall,48.59,126.0,2025-08-28,active
+115,Sunday Lounge Jogger,Joggers,Unisex,Black,XL,Spring,44.64,99.0,2024-03-01,active
+116,Sunday Lounge Jogger,Joggers,Unisex,Oat,XS,Fall,45.19,102.0,2024-12-27,active
+117,Sunday Lounge Jogger,Joggers,Unisex,Oat,S,Winter,56.82,119.0,2024-11-30,active
+118,Sunday Lounge Jogger,Joggers,Unisex,Oat,M,Core,51.06,114.0,2024-11-10,active
+119,Sunday Lounge Jogger,Joggers,Unisex,Oat,L,Spring,44.77,124.0,2024-03-17,active
+120,Sunday Lounge Jogger,Joggers,Unisex,Oat,XL,Winter,46.93,113.0,2025-02-25,active
+121,Strata Training Jogger,Joggers,Men,Charcoal,XS,Fall,47.03,121.0,2025-05-23,active
+122,Strata Training Jogger,Joggers,Men,Charcoal,S,Spring,39.42,107.0,2025-09-07,active
+123,Strata Training Jogger,Joggers,Men,Charcoal,M,Spring,53.19,127.0,2025-04-16,active
+124,Strata Training Jogger,Joggers,Men,Charcoal,L,Summer,52.74,120.0,2025-08-30,active
+125,Strata Training Jogger,Joggers,Men,Charcoal,XL,Winter,52.01,122.0,2024-03-30,active
+126,Strata Training Jogger,Joggers,Men,Stone,XS,Fall,60.06,128.0,2025-06-25,active
+127,Strata Training Jogger,Joggers,Men,Stone,S,Spring,49.8,101.0,2025-07-15,active
+128,Strata Training Jogger,Joggers,Men,Stone,M,Fall,45.03,101.0,2024-01-21,active
+129,Strata Training Jogger,Joggers,Men,Stone,L,Fall,41.33,98.0,2025-04-07,active
+130,Strata Training Jogger,Joggers,Men,Stone,XL,Spring,45.21,107.0,2024-07-20,active
+131,Strata Training Jogger,Joggers,Men,Navy,XS,Fall,54.07,107.0,2025-04-17,active
+132,Strata Training Jogger,Joggers,Men,Navy,S,Winter,52.47,101.0,2024-01-29,active
+133,Strata Training Jogger,Joggers,Men,Navy,M,Winter,52.01,106.0,2024-01-28,active
+134,Strata Training Jogger,Joggers,Men,Navy,L,Winter,58.86,128.0,2024-03-28,active
+135,Strata Training Jogger,Joggers,Men,Navy,XL,Summer,50.15,100.0,2025-07-06,active
+136,Strata Training Jogger,Joggers,Men,Oat,XS,Core,38.4,105.0,2025-06-30,active
+137,Strata Training Jogger,Joggers,Men,Oat,S,Core,52.41,104.0,2024-07-03,active
+138,Strata Training Jogger,Joggers,Men,Oat,M,Core,33.76,99.0,2024-04-10,active
+139,Strata Training Jogger,Joggers,Men,Oat,L,Summer,56.17,116.0,2025-09-08,active
+140,Strata Training Jogger,Joggers,Men,Oat,XL,Core,43.44,124.0,2025-03-04,active
+141,Strata Training Jogger,Joggers,Women,Charcoal,XS,Core,60.35,126.0,2025-06-25,active
+142,Strata Training Jogger,Joggers,Women,Charcoal,S,Spring,42.71,123.0,2024-10-18,active
+143,Strata Training Jogger,Joggers,Women,Charcoal,M,Fall,43.51,101.0,2024-12-11,active
+144,Strata Training Jogger,Joggers,Women,Charcoal,L,Core,57.7,117.0,2024-10-14,active
+145,Strata Training Jogger,Joggers,Women,Charcoal,XL,Spring,44.97,120.0,2024-01-11,active
+146,Strata Training Jogger,Joggers,Women,Stone,XS,Fall,61.97,120.0,2025-04-24,active
+147,Strata Training Jogger,Joggers,Women,Stone,S,Summer,44.64,99.0,2024-01-03,active
+148,Strata Training Jogger,Joggers,Women,Stone,M,Summer,58.47,125.0,2024-09-20,active
+149,Strata Training Jogger,Joggers,Women,Stone,L,Fall,37.3,100.0,2024-08-28,active
+150,Strata Training Jogger,Joggers,Women,Stone,XL,Core,53.89,112.0,2024-06-11,active
+151,Strata Training Jogger,Joggers,Women,Navy,XS,Fall,42.1,115.0,2024-06-07,active
+152,Strata Training Jogger,Joggers,Women,Navy,S,Summer,47.51,107.0,2024-12-10,active
+153,Strata Training Jogger,Joggers,Women,Navy,M,Fall,60.1,118.0,2024-04-11,active
+154,Strata Training Jogger,Joggers,Women,Navy,L,Spring,46.64,113.0,2025-08-07,active
+155,Strata Training Jogger,Joggers,Women,Navy,XL,Spring,36.78,101.0,2025-08-29,active
+156,Strata Training Jogger,Joggers,Women,Oat,XS,Fall,44.62,107.0,2025-05-17,active
+157,Strata Training Jogger,Joggers,Women,Oat,S,Core,48.45,117.0,2024-04-08,active
+158,Strata Training Jogger,Joggers,Women,Oat,M,Core,46.37,104.0,2025-01-20,active
+159,Strata Training Jogger,Joggers,Women,Oat,L,Spring,41.12,99.0,2024-11-01,active
+160,Strata Training Jogger,Joggers,Women,Oat,XL,Fall,46.08,104.0,2024-08-12,active
+161,Strata Training Jogger,Joggers,Unisex,Charcoal,XS,Winter,54.34,119.0,2025-01-10,active
+162,Strata Training Jogger,Joggers,Unisex,Charcoal,S,Spring,51.55,107.0,2024-08-07,active
+163,Strata Training Jogger,Joggers,Unisex,Charcoal,M,Core,50.25,111.0,2024-12-02,active
+164,Strata Training Jogger,Joggers,Unisex,Charcoal,L,Spring,53.4,113.0,2024-12-23,active
+165,Strata Training Jogger,Joggers,Unisex,Charcoal,XL,Summer,54.26,126.0,2025-04-14,active
+166,Strata Training Jogger,Joggers,Unisex,Stone,XS,Summer,48.39,122.0,2024-11-28,active
+167,Strata Training Jogger,Joggers,Unisex,Stone,S,Core,40.78,113.0,2024-02-05,active
+168,Strata Training Jogger,Joggers,Unisex,Stone,M,Fall,43.4,124.0,2024-02-19,active
+169,Strata Training Jogger,Joggers,Unisex,Stone,L,Spring,40.08,108.0,2025-04-12,active
+170,Strata Training Jogger,Joggers,Unisex,Stone,XL,Winter,41.46,121.0,2024-10-06,active
+171,Strata Training Jogger,Joggers,Unisex,Navy,XS,Summer,50.47,124.0,2025-03-29,active
+172,Strata Training Jogger,Joggers,Unisex,Navy,S,Fall,41.94,116.0,2024-11-21,active
+173,Strata Training Jogger,Joggers,Unisex,Navy,M,Fall,65.94,127.0,2024-10-14,active
+174,Strata Training Jogger,Joggers,Unisex,Navy,L,Winter,49.62,107.0,2024-04-02,active
+175,Strata Training Jogger,Joggers,Unisex,Navy,XL,Winter,50.09,110.0,2024-08-01,active
+176,Strata Training Jogger,Joggers,Unisex,Oat,XS,Winter,45.19,104.0,2024-10-25,active
+177,Strata Training Jogger,Joggers,Unisex,Oat,S,Core,50.53,103.0,2025-08-12,active
+178,Strata Training Jogger,Joggers,Unisex,Oat,M,Winter,56.47,115.0,2025-05-28,active
+179,Strata Training Jogger,Joggers,Unisex,Oat,L,Summer,42.91,102.0,2025-06-23,active
+180,Strata Training Jogger,Joggers,Unisex,Oat,XL,Fall,47.6,100.0,2024-01-27,active
+181,Interval Training Short,Shorts,Men,Charcoal,XS,Summer,29.41,77.0,2024-01-29,active
+182,Interval Training Short,Shorts,Men,Charcoal,S,Fall,27.62,62.0,2024-11-09,active
+183,Interval Training Short,Shorts,Men,Charcoal,M,Core,22.26,58.0,2024-02-23,active
+184,Interval Training Short,Shorts,Men,Charcoal,L,Winter,34.26,75.0,2025-02-12,active
+185,Interval Training Short,Shorts,Men,Charcoal,XL,Summer,25.93,74.0,2025-05-03,active
+186,Interval Training Short,Shorts,Men,Sky,XS,Core,29.27,73.0,2024-12-11,active
+187,Interval Training Short,Shorts,Men,Sky,S,Core,30.61,64.0,2024-11-04,active
+188,Interval Training Short,Shorts,Men,Sky,M,Fall,32.74,65.0,2024-11-19,active
+189,Interval Training Short,Shorts,Men,Sky,L,Fall,24.08,60.0,2025-06-28,active
+190,Interval Training Short,Shorts,Men,Sky,XL,Summer,26.92,75.0,2024-12-06,active
+191,Interval Training Short,Shorts,Men,White,XS,Spring,35.38,78.0,2025-08-10,active
+192,Interval Training Short,Shorts,Men,White,S,Spring,21.72,58.0,2024-08-04,active
+193,Interval Training Short,Shorts,Men,White,M,Summer,29.45,70.0,2025-08-16,active
+194,Interval Training Short,Shorts,Men,White,L,Summer,20.48,60.0,2025-01-18,active
+195,Interval Training Short,Shorts,Men,White,XL,Core,27.7,61.0,2025-03-25,active
+196,Interval Training Short,Shorts,Men,Navy,XS,Winter,31.52,74.0,2025-02-01,active
+197,Interval Training Short,Shorts,Men,Navy,S,Core,33.35,71.0,2025-08-01,active
+198,Interval Training Short,Shorts,Men,Navy,M,Spring,35.22,71.0,2025-05-15,active
+199,Interval Training Short,Shorts,Men,Navy,L,Fall,28.51,68.0,2025-04-13,active
+200,Interval Training Short,Shorts,Men,Navy,XL,Core,40.14,78.0,2025-02-22,active
+201,Interval Training Short,Shorts,Women,Charcoal,XS,Winter,28.8,61.0,2024-07-03,active
+202,Interval Training Short,Shorts,Women,Charcoal,S,Spring,25.72,71.0,2024-08-09,active
+203,Interval Training Short,Shorts,Women,Charcoal,M,Core,29.11,68.0,2025-05-12,active
+204,Interval Training Short,Shorts,Women,Charcoal,L,Fall,39.22,76.0,2024-10-24,active
+205,Interval Training Short,Shorts,Women,Charcoal,XL,Fall,20.96,59.0,2025-05-22,active
+206,Interval Training Short,Shorts,Women,Sky,XS,Core,34.94,69.0,2025-05-28,active
+207,Interval Training Short,Shorts,Women,Sky,S,Spring,25.65,63.0,2024-01-24,active
+208,Interval Training Short,Shorts,Women,Sky,M,Winter,30.0,65.0,2024-03-10,active
+209,Interval Training Short,Shorts,Women,Sky,L,Winter,35.2,71.0,2025-05-10,active
+210,Interval Training Short,Shorts,Women,Sky,XL,Summer,23.02,66.0,2025-05-27,active
+211,Interval Training Short,Shorts,Women,White,XS,Spring,29.67,60.0,2025-02-02,active
+212,Interval Training Short,Shorts,Women,White,S,Spring,35.57,77.0,2024-11-25,active
+213,Interval Training Short,Shorts,Women,White,M,Winter,36.59,73.0,2024-09-13,active
+214,Interval Training Short,Shorts,Women,White,L,Summer,31.09,63.0,2024-06-01,active
+215,Interval Training Short,Shorts,Women,White,XL,Fall,29.14,74.0,2025-06-30,active
+216,Interval Training Short,Shorts,Women,Navy,XS,Core,26.09,67.0,2024-09-11,active
+217,Interval Training Short,Shorts,Women,Navy,S,Summer,27.0,76.0,2024-04-30,active
+218,Interval Training Short,Shorts,Women,Navy,M,Core,32.52,67.0,2025-04-04,active
+219,Interval Training Short,Shorts,Women,Navy,L,Spring,29.35,71.0,2024-07-08,active
+220,Interval Training Short,Shorts,Women,Navy,XL,Winter,31.17,60.0,2025-01-02,active
+221,Core Run Short,Shorts,Men,Navy,XS,Spring,24.76,68.0,2024-03-06,active
+222,Core Run Short,Shorts,Men,Navy,S,Summer,22.21,59.0,2024-12-21,active
+223,Core Run Short,Shorts,Men,Navy,M,Fall,30.43,67.0,2025-07-17,active
+224,Core Run Short,Shorts,Men,Navy,L,Fall,33.84,66.0,2025-09-07,active
+225,Core Run Short,Shorts,Men,Navy,XL,Summer,26.99,69.0,2024-08-09,active
+226,Core Run Short,Shorts,Men,Stone,XS,Summer,24.71,62.0,2025-07-24,active
+227,Core Run Short,Shorts,Men,Stone,S,Winter,32.68,69.0,2024-05-18,active
+228,Core Run Short,Shorts,Men,Stone,M,Summer,27.97,71.0,2025-06-30,active
+229,Core Run Short,Shorts,Men,Stone,L,Spring,23.55,64.0,2024-08-10,active
+230,Core Run Short,Shorts,Men,Stone,XL,Fall,27.79,63.0,2024-06-09,active
+231,Core Run Short,Shorts,Men,Black,XS,Core,31.0,74.0,2025-07-05,active
+232,Core Run Short,Shorts,Men,Black,S,Winter,35.99,78.0,2024-06-12,active
+233,Core Run Short,Shorts,Men,Black,M,Spring,36.61,76.0,2024-10-27,active
+234,Core Run Short,Shorts,Men,Black,L,Summer,24.73,69.0,2024-09-30,active
+235,Core Run Short,Shorts,Men,Black,XL,Spring,33.72,78.0,2025-08-21,active
+236,Core Run Short,Shorts,Men,Forest,XS,Summer,29.74,58.0,2025-04-18,active
+237,Core Run Short,Shorts,Men,Forest,S,Core,22.29,58.0,2025-01-01,active
+238,Core Run Short,Shorts,Men,Forest,M,Spring,29.0,67.0,2025-05-20,active
+239,Core Run Short,Shorts,Men,Forest,L,Winter,21.25,59.0,2025-02-10,active
+240,Core Run Short,Shorts,Men,Forest,XL,Core,27.47,59.0,2024-10-14,active
+241,Core Run Short,Shorts,Women,Navy,XS,Spring,26.3,64.0,2024-05-27,active
+242,Core Run Short,Shorts,Women,Navy,S,Spring,20.89,58.0,2024-09-22,active
+243,Core Run Short,Shorts,Women,Navy,M,Spring,25.03,58.0,2024-06-24,active
+244,Core Run Short,Shorts,Women,Navy,L,Fall,26.73,64.0,2024-12-18,active
+245,Core Run Short,Shorts,Women,Navy,XL,Fall,29.01,75.0,2024-05-26,active
+246,Core Run Short,Shorts,Women,Stone,XS,Summer,26.86,63.0,2025-07-06,active
+247,Core Run Short,Shorts,Women,Stone,S,Fall,24.77,62.0,2024-06-06,active
+248,Core Run Short,Shorts,Women,Stone,M,Spring,24.95,59.0,2025-07-06,active
+249,Core Run Short,Shorts,Women,Stone,L,Spring,21.26,61.0,2024-07-23,active
+250,Core Run Short,Shorts,Women,Stone,XL,Core,26.31,77.0,2025-08-20,active
+251,Core Run Short,Shorts,Women,Black,XS,Fall,20.87,58.0,2025-03-28,active
+252,Core Run Short,Shorts,Women,Black,S,Winter,27.87,63.0,2024-05-27,active
+253,Core Run Short,Shorts,Women,Black,M,Fall,25.56,75.0,2024-06-28,active
+254,Core Run Short,Shorts,Women,Black,L,Core,26.22,71.0,2025-07-27,active
+255,Core Run Short,Shorts,Women,Black,XL,Fall,28.93,75.0,2024-06-08,active
+256,Core Run Short,Shorts,Women,Forest,XS,Spring,30.06,67.0,2025-08-05,active
+257,Core Run Short,Shorts,Women,Forest,S,Fall,31.61,65.0,2024-04-05,active
+258,Core Run Short,Shorts,Women,Forest,M,Fall,33.16,74.0,2024-07-08,active
+259,Core Run Short,Shorts,Women,Forest,L,Core,26.21,66.0,2025-06-10,active
+260,Core Run Short,Shorts,Women,Forest,XL,Winter,23.34,58.0,2024-09-02,active
+261,Sunday Performance Short,Shorts,Men,Plum,XS,Fall,37.52,75.0,2024-07-21,active
+262,Sunday Performance Short,Shorts,Men,Plum,S,Winter,22.68,62.0,2024-03-21,active
+263,Sunday Performance Short,Shorts,Men,Plum,M,Core,25.45,59.0,2024-04-20,active
+264,Sunday Performance Short,Shorts,Men,Plum,L,Core,21.61,63.0,2024-01-03,active
+265,Sunday Performance Short,Shorts,Men,Plum,XL,Core,25.4,70.0,2025-01-09,active
+266,Sunday Performance Short,Shorts,Men,Stone,XS,Winter,25.75,59.0,2025-07-17,active
+267,Sunday Performance Short,Shorts,Men,Stone,S,Fall,21.29,61.0,2024-06-23,active
+268,Sunday Performance Short,Shorts,Men,Stone,M,Core,27.57,60.0,2024-07-07,active
+269,Sunday Performance Short,Shorts,Men,Stone,L,Summer,27.28,61.0,2024-01-12,active
+270,Sunday Performance Short,Shorts,Men,Stone,XL,Winter,28.92,75.0,2025-07-13,active
+271,Sunday Performance Short,Shorts,Men,Charcoal,XS,Winter,25.09,61.0,2024-12-20,active
+272,Sunday Performance Short,Shorts,Men,Charcoal,S,Winter,30.5,69.0,2025-04-09,active
+273,Sunday Performance Short,Shorts,Men,Charcoal,M,Fall,30.33,73.0,2025-09-21,active
+274,Sunday Performance Short,Shorts,Men,Charcoal,L,Fall,37.21,77.0,2024-01-08,active
+275,Sunday Performance Short,Shorts,Men,Charcoal,XL,Core,23.56,66.0,2024-09-18,active
+276,Sunday Performance Short,Shorts,Men,Oat,XS,Spring,32.86,71.0,2024-09-09,active
+277,Sunday Performance Short,Shorts,Men,Oat,S,Spring,24.19,65.0,2025-09-07,active
+278,Sunday Performance Short,Shorts,Men,Oat,M,Summer,38.83,77.0,2025-07-03,active
+279,Sunday Performance Short,Shorts,Men,Oat,L,Core,30.68,65.0,2024-10-27,active
+280,Sunday Performance Short,Shorts,Men,Oat,XL,Winter,30.75,71.0,2024-08-30,active
+281,Sunday Performance Short,Shorts,Women,Plum,XS,Fall,34.15,71.0,2025-04-12,active
+282,Sunday Performance Short,Shorts,Women,Plum,S,Core,33.68,67.0,2024-03-07,active
+283,Sunday Performance Short,Shorts,Women,Plum,M,Summer,27.21,76.0,2025-05-25,active
+284,Sunday Performance Short,Shorts,Women,Plum,L,Core,23.06,67.0,2025-04-20,active
+285,Sunday Performance Short,Shorts,Women,Plum,XL,Core,36.62,78.0,2024-08-29,active
+286,Sunday Performance Short,Shorts,Women,Stone,XS,Winter,28.22,71.0,2024-09-09,active
+287,Sunday Performance Short,Shorts,Women,Stone,S,Winter,28.54,69.0,2025-01-06,active
+288,Sunday Performance Short,Shorts,Women,Stone,M,Spring,29.69,70.0,2025-08-21,active
+289,Sunday Performance Short,Shorts,Women,Stone,L,Spring,26.71,65.0,2024-08-29,active
+290,Sunday Performance Short,Shorts,Women,Stone,XL,Summer,29.65,64.0,2024-04-14,active
+291,Sunday Performance Short,Shorts,Women,Charcoal,XS,Spring,22.26,58.0,2025-09-03,active
+292,Sunday Performance Short,Shorts,Women,Charcoal,S,Summer,33.41,67.0,2025-04-27,active
+293,Sunday Performance Short,Shorts,Women,Charcoal,M,Fall,25.39,68.0,2024-05-09,active
+294,Sunday Performance Short,Shorts,Women,Charcoal,L,Spring,22.82,59.0,2024-10-26,active
+295,Sunday Performance Short,Shorts,Women,Charcoal,XL,Winter,29.74,58.0,2024-11-04,active
+296,Sunday Performance Short,Shorts,Women,Oat,XS,Summer,25.91,72.0,2024-11-13,active
+297,Sunday Performance Short,Shorts,Women,Oat,S,Core,28.66,60.0,2024-07-07,active
+298,Sunday Performance Short,Shorts,Women,Oat,M,Core,38.27,74.0,2025-07-31,active
+299,Sunday Performance Short,Shorts,Women,Oat,L,Spring,22.94,65.0,2025-09-01,active
+300,Sunday Performance Short,Shorts,Women,Oat,XL,Spring,33.84,77.0,2024-07-13,active
+301,Cloud Fleece Hoodie,Hoodies,Men,Stone,XS,Spring,40.1,104.0,2024-10-17,active
+302,Cloud Fleece Hoodie,Hoodies,Men,Stone,S,Winter,58.76,132.0,2024-12-01,active
+303,Cloud Fleece Hoodie,Hoodies,Men,Stone,M,Spring,44.75,110.0,2025-06-18,active
+304,Cloud Fleece Hoodie,Hoodies,Men,Stone,L,Winter,61.79,129.0,2024-01-28,active
+305,Cloud Fleece Hoodie,Hoodies,Men,Stone,XL,Winter,49.19,136.0,2024-05-29,active
+306,Cloud Fleece Hoodie,Hoodies,Men,Plum,XS,Winter,39.54,102.0,2024-04-23,active
+307,Cloud Fleece Hoodie,Hoodies,Men,Plum,S,Spring,43.52,105.0,2024-02-09,active
+308,Cloud Fleece Hoodie,Hoodies,Men,Plum,M,Fall,50.53,108.0,2024-03-26,active
+309,Cloud Fleece Hoodie,Hoodies,Men,Plum,L,Winter,53.34,133.0,2024-12-08,active
+310,Cloud Fleece Hoodie,Hoodies,Men,Plum,XL,Spring,41.48,108.0,2024-07-08,active
+311,Cloud Fleece Hoodie,Hoodies,Men,White,XS,Summer,67.98,136.0,2024-01-02,active
+312,Cloud Fleece Hoodie,Hoodies,Men,White,S,Summer,50.97,119.0,2024-10-15,active
+313,Cloud Fleece Hoodie,Hoodies,Men,White,M,Summer,49.77,119.0,2024-08-19,active
+314,Cloud Fleece Hoodie,Hoodies,Men,White,L,Core,52.67,103.0,2024-02-27,active
+315,Cloud Fleece Hoodie,Hoodies,Men,White,XL,Core,50.61,137.0,2024-08-26,active
+316,Cloud Fleece Hoodie,Hoodies,Men,Oat,XS,Summer,40.87,106.0,2025-07-13,active
+317,Cloud Fleece Hoodie,Hoodies,Men,Oat,S,Core,51.51,102.0,2024-01-02,active
+318,Cloud Fleece Hoodie,Hoodies,Men,Oat,M,Fall,51.69,122.0,2025-09-13,active
+319,Cloud Fleece Hoodie,Hoodies,Men,Oat,L,Spring,44.47,119.0,2025-06-21,active
+320,Cloud Fleece Hoodie,Hoodies,Men,Oat,XL,Core,62.03,131.0,2024-08-25,active
+321,Cloud Fleece Hoodie,Hoodies,Women,Stone,XS,Fall,52.59,104.0,2025-03-12,active
+322,Cloud Fleece Hoodie,Hoodies,Women,Stone,S,Winter,40.16,100.0,2024-02-06,active
+323,Cloud Fleece Hoodie,Hoodies,Women,Stone,M,Core,58.44,123.0,2025-02-11,active
+324,Cloud Fleece Hoodie,Hoodies,Women,Stone,L,Summer,53.67,106.0,2024-12-05,active
+325,Cloud Fleece Hoodie,Hoodies,Women,Stone,XL,Summer,42.21,124.0,2024-12-19,active
+326,Cloud Fleece Hoodie,Hoodies,Women,Plum,XS,Winter,38.28,109.0,2024-09-11,active
+327,Cloud Fleece Hoodie,Hoodies,Women,Plum,S,Fall,37.84,103.0,2025-05-19,active
+328,Cloud Fleece Hoodie,Hoodies,Women,Plum,M,Fall,57.68,114.0,2025-02-18,active
+329,Cloud Fleece Hoodie,Hoodies,Women,Plum,L,Winter,53.72,127.0,2024-07-12,active
+330,Cloud Fleece Hoodie,Hoodies,Women,Plum,XL,Fall,51.86,122.0,2025-01-27,active
+331,Cloud Fleece Hoodie,Hoodies,Women,White,XS,Core,41.65,112.0,2024-02-28,active
+332,Cloud Fleece Hoodie,Hoodies,Women,White,S,Summer,45.84,132.0,2025-09-24,active
+333,Cloud Fleece Hoodie,Hoodies,Women,White,M,Fall,63.64,134.0,2024-06-26,active
+334,Cloud Fleece Hoodie,Hoodies,Women,White,L,Summer,54.6,119.0,2024-04-20,active
+335,Cloud Fleece Hoodie,Hoodies,Women,White,XL,Summer,55.21,136.0,2025-04-15,active
+336,Cloud Fleece Hoodie,Hoodies,Women,Oat,XS,Fall,50.29,114.0,2024-04-05,active
+337,Cloud Fleece Hoodie,Hoodies,Women,Oat,S,Spring,59.39,118.0,2024-07-30,active
+338,Cloud Fleece Hoodie,Hoodies,Women,Oat,M,Fall,49.8,124.0,2025-03-21,active
+339,Cloud Fleece Hoodie,Hoodies,Women,Oat,L,Summer,42.07,116.0,2025-06-13,active
+340,Cloud Fleece Hoodie,Hoodies,Women,Oat,XL,Summer,57.25,125.0,2025-04-14,active
+341,Cloud Fleece Hoodie,Hoodies,Unisex,Stone,XS,Spring,39.08,98.0,2025-05-30,active
+342,Cloud Fleece Hoodie,Hoodies,Unisex,Stone,S,Core,63.84,129.0,2025-04-25,active
+343,Cloud Fleece Hoodie,Hoodies,Unisex,Stone,M,Winter,45.41,125.0,2025-07-11,active
+344,Cloud Fleece Hoodie,Hoodies,Unisex,Stone,L,Core,40.28,103.0,2024-06-28,active
+345,Cloud Fleece Hoodie,Hoodies,Unisex,Stone,XL,Fall,50.82,135.0,2025-09-06,active
+346,Cloud Fleece Hoodie,Hoodies,Unisex,Plum,XS,Winter,64.45,126.0,2025-01-07,active
+347,Cloud Fleece Hoodie,Hoodies,Unisex,Plum,S,Winter,48.88,108.0,2024-02-11,active
+348,Cloud Fleece Hoodie,Hoodies,Unisex,Plum,M,Fall,56.85,138.0,2024-10-08,active
+349,Cloud Fleece Hoodie,Hoodies,Unisex,Plum,L,Core,40.38,98.0,2025-03-24,active
+350,Cloud Fleece Hoodie,Hoodies,Unisex,Plum,XL,Core,51.65,123.0,2024-04-22,active
+351,Cloud Fleece Hoodie,Hoodies,Unisex,White,XS,Winter,52.93,133.0,2025-07-02,active
+352,Cloud Fleece Hoodie,Hoodies,Unisex,White,S,Core,53.55,118.0,2025-06-04,active
+353,Cloud Fleece Hoodie,Hoodies,Unisex,White,M,Summer,54.46,108.0,2025-09-02,active
+354,Cloud Fleece Hoodie,Hoodies,Unisex,White,L,Core,68.12,132.0,2024-01-14,active
+355,Cloud Fleece Hoodie,Hoodies,Unisex,White,XL,Winter,61.57,129.0,2024-03-08,active
+356,Cloud Fleece Hoodie,Hoodies,Unisex,Oat,XS,Winter,44.46,116.0,2025-01-22,active
+357,Cloud Fleece Hoodie,Hoodies,Unisex,Oat,S,Summer,42.12,109.0,2024-10-22,active
+358,Cloud Fleece Hoodie,Hoodies,Unisex,Oat,M,Summer,43.25,114.0,2025-02-24,active
+359,Cloud Fleece Hoodie,Hoodies,Unisex,Oat,L,Spring,49.23,133.0,2024-08-22,active
+360,Cloud Fleece Hoodie,Hoodies,Unisex,Oat,XL,Summer,53.67,111.0,2024-03-26,active
+361,Daily Restore Hoodie,Hoodies,Men,Stone,XS,Spring,43.46,116.0,2025-10-01,active
+362,Daily Restore Hoodie,Hoodies,Men,Stone,S,Core,44.7,99.0,2024-09-27,active
+363,Daily Restore Hoodie,Hoodies,Men,Stone,M,Spring,38.43,109.0,2025-09-19,active
+364,Daily Restore Hoodie,Hoodies,Men,Stone,L,Core,47.42,122.0,2025-05-21,active
+365,Daily Restore Hoodie,Hoodies,Men,Stone,XL,Core,38.53,107.0,2025-02-28,active
+366,Daily Restore Hoodie,Hoodies,Men,Oat,XS,Fall,50.36,121.0,2024-04-22,active
+367,Daily Restore Hoodie,Hoodies,Men,Oat,S,Winter,49.6,107.0,2024-11-16,active
+368,Daily Restore Hoodie,Hoodies,Men,Oat,M,Fall,50.95,98.0,2025-09-26,active
+369,Daily Restore Hoodie,Hoodies,Men,Oat,L,Core,48.04,102.0,2024-03-01,active
+370,Daily Restore Hoodie,Hoodies,Men,Oat,XL,Fall,46.95,111.0,2024-07-22,active
+371,Daily Restore Hoodie,Hoodies,Men,White,XS,Summer,48.87,106.0,2024-02-02,active
+372,Daily Restore Hoodie,Hoodies,Men,White,S,Core,54.37,111.0,2025-05-18,active
+373,Daily Restore Hoodie,Hoodies,Men,White,M,Winter,54.11,136.0,2024-09-23,active
+374,Daily Restore Hoodie,Hoodies,Men,White,L,Core,54.41,127.0,2025-05-27,active
+375,Daily Restore Hoodie,Hoodies,Men,White,XL,Spring,53.81,108.0,2024-04-02,active
+376,Daily Restore Hoodie,Hoodies,Men,Black,XS,Spring,48.41,111.0,2024-04-08,active
+377,Daily Restore Hoodie,Hoodies,Men,Black,S,Fall,40.13,118.0,2024-02-03,active
+378,Daily Restore Hoodie,Hoodies,Men,Black,M,Winter,45.71,132.0,2025-05-10,active
+379,Daily Restore Hoodie,Hoodies,Men,Black,L,Spring,47.39,128.0,2025-06-10,active
+380,Daily Restore Hoodie,Hoodies,Men,Black,XL,Fall,48.82,100.0,2025-07-04,active
+381,Daily Restore Hoodie,Hoodies,Women,Stone,XS,Summer,41.38,116.0,2025-06-08,active
+382,Daily Restore Hoodie,Hoodies,Women,Stone,S,Winter,46.36,120.0,2025-04-17,active
+383,Daily Restore Hoodie,Hoodies,Women,Stone,M,Fall,50.36,106.0,2024-11-18,active
+384,Daily Restore Hoodie,Hoodies,Women,Stone,L,Summer,41.74,110.0,2024-08-23,active
+385,Daily Restore Hoodie,Hoodies,Women,Stone,XL,Spring,44.81,124.0,2025-04-25,active
+386,Daily Restore Hoodie,Hoodies,Women,Oat,XS,Core,41.24,111.0,2024-04-22,active
+387,Daily Restore Hoodie,Hoodies,Women,Oat,S,Spring,51.83,100.0,2024-09-12,active
+388,Daily Restore Hoodie,Hoodies,Women,Oat,M,Summer,58.07,138.0,2025-02-22,active
+389,Daily Restore Hoodie,Hoodies,Women,Oat,L,Core,54.14,105.0,2025-07-14,active
+390,Daily Restore Hoodie,Hoodies,Women,Oat,XL,Winter,44.05,116.0,2024-05-03,active
+391,Daily Restore Hoodie,Hoodies,Women,White,XS,Fall,64.23,136.0,2024-07-04,active
+392,Daily Restore Hoodie,Hoodies,Women,White,S,Winter,62.61,128.0,2024-12-18,active
+393,Daily Restore Hoodie,Hoodies,Women,White,M,Winter,40.82,117.0,2024-01-18,active
+394,Daily Restore Hoodie,Hoodies,Women,White,L,Fall,43.71,113.0,2024-11-07,active
+395,Daily Restore Hoodie,Hoodies,Women,White,XL,Fall,52.79,108.0,2025-04-30,active
+396,Daily Restore Hoodie,Hoodies,Women,Black,XS,Fall,40.43,104.0,2024-09-03,active
+397,Daily Restore Hoodie,Hoodies,Women,Black,S,Winter,45.92,104.0,2024-07-20,active
+398,Daily Restore Hoodie,Hoodies,Women,Black,M,Summer,44.91,132.0,2024-02-12,active
+399,Daily Restore Hoodie,Hoodies,Women,Black,L,Spring,55.67,122.0,2025-07-26,active
+400,Daily Restore Hoodie,Hoodies,Women,Black,XL,Fall,56.05,132.0,2025-07-23,active
+401,Daily Restore Hoodie,Hoodies,Unisex,Stone,XS,Summer,46.29,132.0,2025-08-21,active
+402,Daily Restore Hoodie,Hoodies,Unisex,Stone,S,Winter,43.9,117.0,2025-01-09,active
+403,Daily Restore Hoodie,Hoodies,Unisex,Stone,M,Summer,35.43,99.0,2024-05-17,active
+404,Daily Restore Hoodie,Hoodies,Unisex,Stone,L,Spring,37.91,102.0,2024-09-27,active
+405,Daily Restore Hoodie,Hoodies,Unisex,Stone,XL,Summer,49.31,124.0,2025-07-04,active
+406,Daily Restore Hoodie,Hoodies,Unisex,Oat,XS,Summer,43.67,108.0,2024-02-05,active
+407,Daily Restore Hoodie,Hoodies,Unisex,Oat,S,Core,51.27,136.0,2025-01-25,active
+408,Daily Restore Hoodie,Hoodies,Unisex,Oat,M,Spring,35.44,99.0,2025-08-17,active
+409,Daily Restore Hoodie,Hoodies,Unisex,Oat,L,Spring,45.15,100.0,2024-03-14,active
+410,Daily Restore Hoodie,Hoodies,Unisex,Oat,XL,Core,50.43,106.0,2025-06-29,active
+411,Daily Restore Hoodie,Hoodies,Unisex,White,XS,Spring,65.44,126.0,2024-12-02,active
+412,Daily Restore Hoodie,Hoodies,Unisex,White,S,Core,42.22,106.0,2024-09-13,active
+413,Daily Restore Hoodie,Hoodies,Unisex,White,M,Spring,49.0,101.0,2025-01-04,active
+414,Daily Restore Hoodie,Hoodies,Unisex,White,L,Fall,55.87,130.0,2025-09-18,active
+415,Daily Restore Hoodie,Hoodies,Unisex,White,XL,Summer,44.53,109.0,2025-09-13,active
+416,Daily Restore Hoodie,Hoodies,Unisex,Black,XS,Summer,47.2,130.0,2025-01-09,active
+417,Daily Restore Hoodie,Hoodies,Unisex,Black,S,Core,38.01,106.0,2024-05-03,active
+418,Daily Restore Hoodie,Hoodies,Unisex,Black,M,Fall,40.05,99.0,2025-01-12,active
+419,Daily Restore Hoodie,Hoodies,Unisex,Black,L,Core,52.66,116.0,2024-10-03,active
+420,Daily Restore Hoodie,Hoodies,Unisex,Black,XL,Summer,53.36,130.0,2025-08-19,active
+421,Studio Soft Hoodie,Hoodies,Men,Plum,XS,Core,54.97,125.0,2024-08-24,active
+422,Studio Soft Hoodie,Hoodies,Men,Plum,S,Summer,45.71,112.0,2024-12-06,active
+423,Studio Soft Hoodie,Hoodies,Men,Plum,M,Core,48.9,104.0,2025-09-11,active
+424,Studio Soft Hoodie,Hoodies,Men,Plum,L,Fall,46.78,106.0,2025-04-30,active
+425,Studio Soft Hoodie,Hoodies,Men,Plum,XL,Spring,52.79,108.0,2025-09-13,active
+426,Studio Soft Hoodie,Hoodies,Men,Charcoal,XS,Winter,56.17,122.0,2025-09-27,active
+427,Studio Soft Hoodie,Hoodies,Men,Charcoal,S,Core,55.85,136.0,2024-03-07,active
+428,Studio Soft Hoodie,Hoodies,Men,Charcoal,M,Core,41.24,121.0,2025-01-29,active
+429,Studio Soft Hoodie,Hoodies,Men,Charcoal,L,Summer,55.16,125.0,2024-02-23,active
+430,Studio Soft Hoodie,Hoodies,Men,Charcoal,XL,Summer,63.15,128.0,2024-06-02,active
+431,Studio Soft Hoodie,Hoodies,Men,Stone,XS,Core,39.9,117.0,2024-12-29,active
+432,Studio Soft Hoodie,Hoodies,Men,Stone,S,Core,55.3,111.0,2025-09-24,active
+433,Studio Soft Hoodie,Hoodies,Men,Stone,M,Fall,47.03,121.0,2025-03-06,active
+434,Studio Soft Hoodie,Hoodies,Men,Stone,L,Summer,55.39,129.0,2024-05-17,active
+435,Studio Soft Hoodie,Hoodies,Men,Stone,XL,Core,70.34,137.0,2025-05-21,active
+436,Studio Soft Hoodie,Hoodies,Men,Navy,XS,Fall,46.93,105.0,2025-09-07,active
+437,Studio Soft Hoodie,Hoodies,Men,Navy,S,Fall,40.48,113.0,2024-09-06,active
+438,Studio Soft Hoodie,Hoodies,Men,Navy,M,Winter,51.67,117.0,2025-02-12,active
+439,Studio Soft Hoodie,Hoodies,Men,Navy,L,Spring,50.81,122.0,2025-08-21,active
+440,Studio Soft Hoodie,Hoodies,Men,Navy,XL,Summer,41.55,115.0,2025-07-17,active
+441,Studio Soft Hoodie,Hoodies,Women,Plum,XS,Winter,51.64,132.0,2025-03-27,active
+442,Studio Soft Hoodie,Hoodies,Women,Plum,S,Fall,45.79,133.0,2025-08-24,active
+443,Studio Soft Hoodie,Hoodies,Women,Plum,M,Winter,54.31,117.0,2025-01-06,active
+444,Studio Soft Hoodie,Hoodies,Women,Plum,L,Spring,50.98,125.0,2025-05-20,active
+445,Studio Soft Hoodie,Hoodies,Women,Plum,XL,Core,41.89,99.0,2025-09-07,active
+446,Studio Soft Hoodie,Hoodies,Women,Charcoal,XS,Fall,38.7,106.0,2025-01-02,active
+447,Studio Soft Hoodie,Hoodies,Women,Charcoal,S,Spring,40.03,112.0,2024-11-23,active
+448,Studio Soft Hoodie,Hoodies,Women,Charcoal,M,Summer,55.36,114.0,2024-09-22,active
+449,Studio Soft Hoodie,Hoodies,Women,Charcoal,L,Core,46.19,101.0,2025-09-26,active
+450,Studio Soft Hoodie,Hoodies,Women,Charcoal,XL,Summer,51.74,124.0,2024-03-26,active
+451,Studio Soft Hoodie,Hoodies,Women,Stone,XS,Fall,43.19,99.0,2024-08-24,active
+452,Studio Soft Hoodie,Hoodies,Women,Stone,S,Fall,47.58,137.0,2024-05-10,active
+453,Studio Soft Hoodie,Hoodies,Women,Stone,M,Summer,55.28,110.0,2024-09-05,active
+454,Studio Soft Hoodie,Hoodies,Women,Stone,L,Summer,66.74,136.0,2025-08-06,active
+455,Studio Soft Hoodie,Hoodies,Women,Stone,XL,Winter,49.02,100.0,2025-08-22,active
+456,Studio Soft Hoodie,Hoodies,Women,Navy,XS,Winter,60.08,119.0,2025-07-11,active
+457,Studio Soft Hoodie,Hoodies,Women,Navy,S,Spring,47.89,114.0,2025-09-25,active
+458,Studio Soft Hoodie,Hoodies,Women,Navy,M,Fall,54.24,137.0,2025-05-21,active
+459,Studio Soft Hoodie,Hoodies,Women,Navy,L,Winter,55.98,109.0,2024-05-07,active
+460,Studio Soft Hoodie,Hoodies,Women,Navy,XL,Spring,62.17,133.0,2024-12-12,active
+461,Studio Soft Hoodie,Hoodies,Unisex,Plum,XS,Winter,67.84,138.0,2024-08-19,active
+462,Studio Soft Hoodie,Hoodies,Unisex,Plum,S,Summer,49.77,103.0,2024-07-11,active
+463,Studio Soft Hoodie,Hoodies,Unisex,Plum,M,Fall,60.22,120.0,2024-05-17,active
+464,Studio Soft Hoodie,Hoodies,Unisex,Plum,L,Core,53.79,126.0,2024-10-19,active
+465,Studio Soft Hoodie,Hoodies,Unisex,Plum,XL,Spring,45.77,113.0,2024-05-04,active
+466,Studio Soft Hoodie,Hoodies,Unisex,Charcoal,XS,Winter,35.75,101.0,2024-12-29,active
+467,Studio Soft Hoodie,Hoodies,Unisex,Charcoal,S,Spring,58.87,116.0,2025-06-18,active
+468,Studio Soft Hoodie,Hoodies,Unisex,Charcoal,M,Summer,36.47,99.0,2025-07-04,active
+469,Studio Soft Hoodie,Hoodies,Unisex,Charcoal,L,Winter,52.35,138.0,2024-09-02,active
+470,Studio Soft Hoodie,Hoodies,Unisex,Charcoal,XL,Fall,70.16,136.0,2024-01-27,active
+471,Studio Soft Hoodie,Hoodies,Unisex,Stone,XS,Spring,36.76,100.0,2025-08-20,active
+472,Studio Soft Hoodie,Hoodies,Unisex,Stone,S,Summer,46.89,106.0,2024-08-21,active
+473,Studio Soft Hoodie,Hoodies,Unisex,Stone,M,Fall,54.32,120.0,2025-05-24,active
+474,Studio Soft Hoodie,Hoodies,Unisex,Stone,L,Winter,58.66,130.0,2025-02-21,active
+475,Studio Soft Hoodie,Hoodies,Unisex,Stone,XL,Fall,54.76,136.0,2024-03-12,active
+476,Studio Soft Hoodie,Hoodies,Unisex,Navy,XS,Core,44.81,107.0,2025-02-01,active
+477,Studio Soft Hoodie,Hoodies,Unisex,Navy,S,Fall,54.1,113.0,2024-03-20,active
+478,Studio Soft Hoodie,Hoodies,Unisex,Navy,M,Spring,41.76,105.0,2024-04-28,active
+479,Studio Soft Hoodie,Hoodies,Unisex,Navy,L,Winter,52.28,125.0,2025-06-01,active
+480,Studio Soft Hoodie,Hoodies,Unisex,Navy,XL,Winter,47.04,127.0,2025-04-02,active
+481,Elevation Half-Zip,Half-Zips,Men,Charcoal,XS,Core,45.63,109.0,2024-11-21,active
+482,Elevation Half-Zip,Half-Zips,Men,Charcoal,S,Fall,47.72,112.0,2024-11-07,active
+483,Elevation Half-Zip,Half-Zips,Men,Charcoal,M,Summer,65.67,147.0,2024-02-12,active
+484,Elevation Half-Zip,Half-Zips,Men,Charcoal,L,Core,47.83,137.0,2025-02-12,active
+485,Elevation Half-Zip,Half-Zips,Men,Charcoal,XL,Fall,54.15,108.0,2024-10-27,active
+486,Elevation Half-Zip,Half-Zips,Men,Black,XS,Winter,66.86,137.0,2024-02-08,active
+487,Elevation Half-Zip,Half-Zips,Men,Black,S,Winter,57.56,138.0,2025-05-15,active
+488,Elevation Half-Zip,Half-Zips,Men,Black,M,Summer,52.16,115.0,2025-07-01,active
+489,Elevation Half-Zip,Half-Zips,Men,Black,L,Core,57.62,125.0,2025-02-28,active
+490,Elevation Half-Zip,Half-Zips,Men,Black,XL,Core,56.65,136.0,2024-08-25,active
+491,Elevation Half-Zip,Half-Zips,Men,Stone,XS,Fall,58.13,123.0,2024-11-19,active
+492,Elevation Half-Zip,Half-Zips,Men,Stone,S,Spring,61.16,129.0,2024-05-17,active
+493,Elevation Half-Zip,Half-Zips,Men,Stone,M,Winter,55.7,123.0,2024-05-07,active
+494,Elevation Half-Zip,Half-Zips,Men,Stone,L,Spring,45.52,117.0,2025-07-26,active
+495,Elevation Half-Zip,Half-Zips,Men,Stone,XL,Spring,41.19,112.0,2025-09-03,active
+496,Elevation Half-Zip,Half-Zips,Men,Oat,XS,Core,53.98,124.0,2024-07-05,active
+497,Elevation Half-Zip,Half-Zips,Men,Oat,S,Spring,64.04,137.0,2025-05-01,active
+498,Elevation Half-Zip,Half-Zips,Men,Oat,M,Spring,58.8,138.0,2024-08-16,active
+499,Elevation Half-Zip,Half-Zips,Men,Oat,L,Spring,48.65,123.0,2024-06-23,active
+500,Elevation Half-Zip,Half-Zips,Men,Oat,XL,Spring,63.5,136.0,2024-12-18,active
+501,Elevation Half-Zip,Half-Zips,Women,Charcoal,XS,Winter,60.1,125.0,2024-11-03,active
+502,Elevation Half-Zip,Half-Zips,Women,Charcoal,S,Core,47.12,112.0,2025-06-05,active
+503,Elevation Half-Zip,Half-Zips,Women,Charcoal,M,Spring,48.19,119.0,2024-06-03,active
+504,Elevation Half-Zip,Half-Zips,Women,Charcoal,L,Summer,48.04,117.0,2024-10-26,active
+505,Elevation Half-Zip,Half-Zips,Women,Charcoal,XL,Summer,57.49,145.0,2025-04-26,active
+506,Elevation Half-Zip,Half-Zips,Women,Black,XS,Summer,51.12,122.0,2024-03-24,active
+507,Elevation Half-Zip,Half-Zips,Women,Black,S,Winter,54.69,143.0,2024-08-24,active
+508,Elevation Half-Zip,Half-Zips,Women,Black,M,Winter,47.26,110.0,2025-08-18,active
+509,Elevation Half-Zip,Half-Zips,Women,Black,L,Winter,56.14,108.0,2025-07-08,active
+510,Elevation Half-Zip,Half-Zips,Women,Black,XL,Winter,63.45,126.0,2025-07-23,active
+511,Elevation Half-Zip,Half-Zips,Women,Stone,XS,Spring,43.26,122.0,2024-10-21,active
+512,Elevation Half-Zip,Half-Zips,Women,Stone,S,Fall,56.2,131.0,2024-11-01,active
+513,Elevation Half-Zip,Half-Zips,Women,Stone,M,Core,55.36,126.0,2024-12-29,active
+514,Elevation Half-Zip,Half-Zips,Women,Stone,L,Winter,56.32,148.0,2024-03-10,active
+515,Elevation Half-Zip,Half-Zips,Women,Stone,XL,Core,57.1,110.0,2025-06-26,active
+516,Elevation Half-Zip,Half-Zips,Women,Oat,XS,Fall,44.42,112.0,2025-07-23,active
+517,Elevation Half-Zip,Half-Zips,Women,Oat,S,Core,61.98,138.0,2024-06-20,active
+518,Elevation Half-Zip,Half-Zips,Women,Oat,M,Summer,55.03,125.0,2024-08-08,active
+519,Elevation Half-Zip,Half-Zips,Women,Oat,L,Spring,43.52,116.0,2024-04-18,active
+520,Elevation Half-Zip,Half-Zips,Women,Oat,XL,Core,54.86,133.0,2025-08-30,active
+521,Canyon Performance Half-Zip,Half-Zips,Men,Stone,XS,Winter,54.66,141.0,2025-08-12,active
+522,Canyon Performance Half-Zip,Half-Zips,Men,Stone,S,Fall,52.2,113.0,2025-10-01,active
+523,Canyon Performance Half-Zip,Half-Zips,Men,Stone,M,Fall,45.6,117.0,2024-08-07,active
+524,Canyon Performance Half-Zip,Half-Zips,Men,Stone,L,Winter,49.25,118.0,2025-09-23,active
+525,Canyon Performance Half-Zip,Half-Zips,Men,Stone,XL,Fall,56.6,118.0,2025-01-24,active
+526,Canyon Performance Half-Zip,Half-Zips,Men,Charcoal,XS,Winter,60.31,123.0,2025-06-22,active
+527,Canyon Performance Half-Zip,Half-Zips,Men,Charcoal,S,Core,47.82,108.0,2024-08-20,active
+528,Canyon Performance Half-Zip,Half-Zips,Men,Charcoal,M,Winter,41.14,109.0,2025-07-28,active
+529,Canyon Performance Half-Zip,Half-Zips,Men,Charcoal,L,Summer,50.2,141.0,2024-03-30,active
+530,Canyon Performance Half-Zip,Half-Zips,Men,Charcoal,XL,Spring,56.15,138.0,2024-05-31,active
+531,Canyon Performance Half-Zip,Half-Zips,Men,Black,XS,Winter,48.0,116.0,2024-10-05,active
+532,Canyon Performance Half-Zip,Half-Zips,Men,Black,S,Spring,65.15,143.0,2025-04-17,active
+533,Canyon Performance Half-Zip,Half-Zips,Men,Black,M,Summer,61.29,148.0,2025-02-21,active
+534,Canyon Performance Half-Zip,Half-Zips,Men,Black,L,Spring,55.72,145.0,2025-09-27,active
+535,Canyon Performance Half-Zip,Half-Zips,Men,Black,XL,Spring,49.35,138.0,2024-09-21,active
+536,Canyon Performance Half-Zip,Half-Zips,Men,Oat,XS,Summer,43.31,116.0,2024-09-15,active
+537,Canyon Performance Half-Zip,Half-Zips,Men,Oat,S,Fall,57.51,119.0,2024-05-15,active
+538,Canyon Performance Half-Zip,Half-Zips,Men,Oat,M,Spring,54.3,140.0,2025-01-19,active
+539,Canyon Performance Half-Zip,Half-Zips,Men,Oat,L,Fall,42.99,118.0,2024-01-16,active
+540,Canyon Performance Half-Zip,Half-Zips,Men,Oat,XL,Winter,47.18,124.0,2024-09-14,active
+541,Canyon Performance Half-Zip,Half-Zips,Women,Stone,XS,Winter,42.94,124.0,2024-02-24,active
+542,Canyon Performance Half-Zip,Half-Zips,Women,Stone,S,Summer,64.44,134.0,2024-04-12,active
+543,Canyon Performance Half-Zip,Half-Zips,Women,Stone,M,Spring,71.51,145.0,2024-06-07,active
+544,Canyon Performance Half-Zip,Half-Zips,Women,Stone,L,Fall,40.84,117.0,2025-07-03,active
+545,Canyon Performance Half-Zip,Half-Zips,Women,Stone,XL,Winter,54.17,120.0,2024-12-10,active
+546,Canyon Performance Half-Zip,Half-Zips,Women,Charcoal,XS,Spring,54.3,113.0,2024-04-11,active
+547,Canyon Performance Half-Zip,Half-Zips,Women,Charcoal,S,Spring,57.46,137.0,2024-02-06,active
+548,Canyon Performance Half-Zip,Half-Zips,Women,Charcoal,M,Spring,61.15,129.0,2024-01-30,active
+549,Canyon Performance Half-Zip,Half-Zips,Women,Charcoal,L,Core,54.07,138.0,2024-09-28,active
+550,Canyon Performance Half-Zip,Half-Zips,Women,Charcoal,XL,Fall,50.37,117.0,2025-03-06,active
+551,Canyon Performance Half-Zip,Half-Zips,Women,Black,XS,Core,53.86,131.0,2025-06-16,active
+552,Canyon Performance Half-Zip,Half-Zips,Women,Black,S,Summer,55.74,145.0,2025-05-10,active
+553,Canyon Performance Half-Zip,Half-Zips,Women,Black,M,Summer,58.61,135.0,2025-05-24,active
+554,Canyon Performance Half-Zip,Half-Zips,Women,Black,L,Core,71.81,140.0,2024-01-06,active
+555,Canyon Performance Half-Zip,Half-Zips,Women,Black,XL,Summer,74.99,145.0,2024-09-08,active
+556,Canyon Performance Half-Zip,Half-Zips,Women,Oat,XS,Summer,56.99,134.0,2024-02-15,active
+557,Canyon Performance Half-Zip,Half-Zips,Women,Oat,S,Spring,45.98,111.0,2025-01-28,active
+558,Canyon Performance Half-Zip,Half-Zips,Women,Oat,M,Winter,57.33,119.0,2025-01-19,active
+559,Canyon Performance Half-Zip,Half-Zips,Women,Oat,L,Summer,73.86,148.0,2025-05-14,active
+560,Canyon Performance Half-Zip,Half-Zips,Women,Oat,XL,Summer,55.69,139.0,2024-05-30,active
+561,Summit Knit Half-Zip,Half-Zips,Men,Plum,XS,Fall,64.01,145.0,2025-03-31,active
+562,Summit Knit Half-Zip,Half-Zips,Men,Plum,S,Core,51.14,127.0,2024-02-05,active
+563,Summit Knit Half-Zip,Half-Zips,Men,Plum,M,Core,56.77,138.0,2024-01-20,active
+564,Summit Knit Half-Zip,Half-Zips,Men,Plum,L,Summer,67.92,143.0,2024-02-02,active
+565,Summit Knit Half-Zip,Half-Zips,Men,Plum,XL,Core,61.18,129.0,2025-07-08,active
+566,Summit Knit Half-Zip,Half-Zips,Men,White,XS,Winter,52.28,120.0,2024-05-18,active
+567,Summit Knit Half-Zip,Half-Zips,Men,White,S,Spring,53.41,140.0,2024-06-06,active
+568,Summit Knit Half-Zip,Half-Zips,Men,White,M,Winter,56.6,121.0,2025-09-05,active
+569,Summit Knit Half-Zip,Half-Zips,Men,White,L,Fall,53.59,123.0,2025-04-21,active
+570,Summit Knit Half-Zip,Half-Zips,Men,White,XL,Summer,51.45,113.0,2024-10-14,active
+571,Summit Knit Half-Zip,Half-Zips,Men,Sky,XS,Summer,52.5,108.0,2025-07-22,active
+572,Summit Knit Half-Zip,Half-Zips,Men,Sky,S,Core,53.71,147.0,2025-01-05,active
+573,Summit Knit Half-Zip,Half-Zips,Men,Sky,M,Summer,57.68,114.0,2025-07-31,active
+574,Summit Knit Half-Zip,Half-Zips,Men,Sky,L,Spring,53.31,141.0,2024-04-18,active
+575,Summit Knit Half-Zip,Half-Zips,Men,Sky,XL,Core,40.58,115.0,2024-03-17,active
+576,Summit Knit Half-Zip,Half-Zips,Men,Forest,XS,Core,40.39,111.0,2024-02-17,active
+577,Summit Knit Half-Zip,Half-Zips,Men,Forest,S,Winter,66.16,138.0,2025-01-06,active
+578,Summit Knit Half-Zip,Half-Zips,Men,Forest,M,Fall,56.41,124.0,2025-07-18,active
+579,Summit Knit Half-Zip,Half-Zips,Men,Forest,L,Summer,61.4,146.0,2025-04-01,active
+580,Summit Knit Half-Zip,Half-Zips,Men,Forest,XL,Winter,42.24,114.0,2024-10-26,active
+581,Summit Knit Half-Zip,Half-Zips,Women,Plum,XS,Summer,51.47,140.0,2024-06-15,active
+582,Summit Knit Half-Zip,Half-Zips,Women,Plum,S,Winter,55.92,140.0,2025-06-22,active
+583,Summit Knit Half-Zip,Half-Zips,Women,Plum,M,Winter,47.44,134.0,2025-07-02,active
+584,Summit Knit Half-Zip,Half-Zips,Women,Plum,L,Winter,43.96,116.0,2024-07-15,active
+585,Summit Knit Half-Zip,Half-Zips,Women,Plum,XL,Fall,52.68,134.0,2025-08-05,active
+586,Summit Knit Half-Zip,Half-Zips,Women,White,XS,Winter,51.89,118.0,2024-07-04,active
+587,Summit Knit Half-Zip,Half-Zips,Women,White,S,Spring,56.98,126.0,2025-01-25,active
+588,Summit Knit Half-Zip,Half-Zips,Women,White,M,Winter,55.84,121.0,2025-03-19,active
+589,Summit Knit Half-Zip,Half-Zips,Women,White,L,Fall,55.5,132.0,2024-02-17,active
+590,Summit Knit Half-Zip,Half-Zips,Women,White,XL,Fall,47.5,125.0,2024-02-25,active
+591,Summit Knit Half-Zip,Half-Zips,Women,Sky,XS,Core,54.34,142.0,2025-04-20,active
+592,Summit Knit Half-Zip,Half-Zips,Women,Sky,S,Fall,60.56,127.0,2024-12-15,active
+593,Summit Knit Half-Zip,Half-Zips,Women,Sky,M,Core,58.7,130.0,2024-11-15,active
+594,Summit Knit Half-Zip,Half-Zips,Women,Sky,L,Winter,63.53,146.0,2024-11-10,active
+595,Summit Knit Half-Zip,Half-Zips,Women,Sky,XL,Fall,52.23,148.0,2025-04-17,active
+596,Summit Knit Half-Zip,Half-Zips,Women,Forest,XS,Fall,68.3,135.0,2024-11-04,active
+597,Summit Knit Half-Zip,Half-Zips,Women,Forest,S,Fall,66.72,130.0,2024-10-26,active
+598,Summit Knit Half-Zip,Half-Zips,Women,Forest,M,Spring,50.03,132.0,2024-04-25,active
+599,Summit Knit Half-Zip,Half-Zips,Women,Forest,L,Winter,55.14,132.0,2024-01-01,active
+600,Summit Knit Half-Zip,Half-Zips,Women,Forest,XL,Fall,44.95,130.0,2025-04-14,active
+601,Strive Performance Tee,Performance Tees,Men,Charcoal,XS,Summer,24.32,61.0,2024-09-09,active
+602,Strive Performance Tee,Performance Tees,Men,Charcoal,S,Summer,26.7,56.0,2024-04-07,active
+603,Strive Performance Tee,Performance Tees,Men,Charcoal,M,Fall,28.81,67.0,2024-04-10,active
+604,Strive Performance Tee,Performance Tees,Men,Charcoal,L,Winter,33.79,65.0,2025-05-31,active
+605,Strive Performance Tee,Performance Tees,Men,Charcoal,XL,Winter,20.79,54.0,2025-03-12,active
+606,Strive Performance Tee,Performance Tees,Men,Black,XS,Spring,31.13,60.0,2024-01-06,active
+607,Strive Performance Tee,Performance Tees,Men,Black,S,Fall,26.85,59.0,2025-04-06,active
+608,Strive Performance Tee,Performance Tees,Men,Black,M,Winter,25.24,67.0,2024-08-30,active
+609,Strive Performance Tee,Performance Tees,Men,Black,L,Summer,25.65,65.0,2025-08-23,active
+610,Strive Performance Tee,Performance Tees,Men,Black,XL,Fall,35.18,68.0,2025-08-11,active
+611,Strive Performance Tee,Performance Tees,Men,Oat,XS,Winter,24.86,64.0,2024-01-25,active
+612,Strive Performance Tee,Performance Tees,Men,Oat,S,Fall,26.02,59.0,2024-04-21,active
+613,Strive Performance Tee,Performance Tees,Men,Oat,M,Core,25.22,61.0,2025-03-10,active
+614,Strive Performance Tee,Performance Tees,Men,Oat,L,Fall,21.97,55.0,2024-12-03,active
+615,Strive Performance Tee,Performance Tees,Men,Oat,XL,Spring,25.15,51.0,2025-09-22,active
+616,Strive Performance Tee,Performance Tees,Men,White,XS,Spring,24.79,52.0,2025-09-22,active
+617,Strive Performance Tee,Performance Tees,Men,White,S,Summer,19.05,48.0,2024-03-12,active
+618,Strive Performance Tee,Performance Tees,Men,White,M,Spring,23.76,61.0,2025-03-15,active
+619,Strive Performance Tee,Performance Tees,Men,White,L,Spring,21.79,49.0,2025-05-30,active
+620,Strive Performance Tee,Performance Tees,Men,White,XL,Summer,23.92,65.0,2024-11-28,active
+621,Strive Performance Tee,Performance Tees,Women,Charcoal,XS,Fall,23.92,57.0,2024-09-01,active
+622,Strive Performance Tee,Performance Tees,Women,Charcoal,S,Fall,32.05,64.0,2024-03-21,active
+623,Strive Performance Tee,Performance Tees,Women,Charcoal,M,Winter,25.64,51.0,2024-08-03,active
+624,Strive Performance Tee,Performance Tees,Women,Charcoal,L,Spring,19.2,51.0,2025-06-01,active
+625,Strive Performance Tee,Performance Tees,Women,Charcoal,XL,Core,28.22,63.0,2025-09-06,active
+626,Strive Performance Tee,Performance Tees,Women,Black,XS,Winter,22.85,58.0,2025-08-12,active
+627,Strive Performance Tee,Performance Tees,Women,Black,S,Spring,20.92,55.0,2025-04-14,active
+628,Strive Performance Tee,Performance Tees,Women,Black,M,Summer,25.74,55.0,2024-08-17,active
+629,Strive Performance Tee,Performance Tees,Women,Black,L,Winter,25.99,57.0,2024-06-07,active
+630,Strive Performance Tee,Performance Tees,Women,Black,XL,Spring,31.1,64.0,2024-05-21,active
+631,Strive Performance Tee,Performance Tees,Women,Oat,XS,Winter,21.28,50.0,2025-02-01,active
+632,Strive Performance Tee,Performance Tees,Women,Oat,S,Fall,18.43,53.0,2025-07-07,active
+633,Strive Performance Tee,Performance Tees,Women,Oat,M,Spring,23.63,57.0,2024-02-23,active
+634,Strive Performance Tee,Performance Tees,Women,Oat,L,Winter,32.93,65.0,2024-10-06,active
+635,Strive Performance Tee,Performance Tees,Women,Oat,XL,Fall,23.0,67.0,2024-07-13,active
+636,Strive Performance Tee,Performance Tees,Women,White,XS,Winter,22.93,67.0,2025-07-12,active
+637,Strive Performance Tee,Performance Tees,Women,White,S,Spring,34.21,68.0,2024-05-28,active
+638,Strive Performance Tee,Performance Tees,Women,White,M,Spring,20.89,59.0,2024-02-12,active
+639,Strive Performance Tee,Performance Tees,Women,White,L,Winter,27.04,60.0,2024-11-03,active
+640,Strive Performance Tee,Performance Tees,Women,White,XL,Winter,22.06,60.0,2025-02-28,active
+641,Strive Performance Tee,Performance Tees,Unisex,Charcoal,XS,Fall,23.1,49.0,2024-04-27,active
+642,Strive Performance Tee,Performance Tees,Unisex,Charcoal,S,Core,24.61,57.0,2024-12-14,active
+643,Strive Performance Tee,Performance Tees,Unisex,Charcoal,M,Core,32.09,68.0,2024-01-15,active
+644,Strive Performance Tee,Performance Tees,Unisex,Charcoal,L,Fall,19.36,51.0,2025-04-11,active
+645,Strive Performance Tee,Performance Tees,Unisex,Charcoal,XL,Core,31.63,67.0,2024-03-03,active
+646,Strive Performance Tee,Performance Tees,Unisex,Black,XS,Winter,26.93,66.0,2024-05-07,active
+647,Strive Performance Tee,Performance Tees,Unisex,Black,S,Spring,23.92,53.0,2024-11-01,active
+648,Strive Performance Tee,Performance Tees,Unisex,Black,M,Fall,24.63,53.0,2025-02-16,active
+649,Strive Performance Tee,Performance Tees,Unisex,Black,L,Core,18.15,51.0,2025-03-05,active
+650,Strive Performance Tee,Performance Tees,Unisex,Black,XL,Winter,19.41,55.0,2024-09-22,active
+651,Strive Performance Tee,Performance Tees,Unisex,Oat,XS,Spring,24.65,63.0,2024-11-23,active
+652,Strive Performance Tee,Performance Tees,Unisex,Oat,S,Spring,28.18,65.0,2024-07-22,active
+653,Strive Performance Tee,Performance Tees,Unisex,Oat,M,Spring,29.16,57.0,2024-06-09,active
+654,Strive Performance Tee,Performance Tees,Unisex,Oat,L,Summer,24.97,50.0,2025-03-17,active
+655,Strive Performance Tee,Performance Tees,Unisex,Oat,XL,Spring,18.37,50.0,2024-04-29,active
+656,Strive Performance Tee,Performance Tees,Unisex,White,XS,Summer,18.8,48.0,2024-10-18,active
+657,Strive Performance Tee,Performance Tees,Unisex,White,S,Summer,23.63,57.0,2024-12-12,active
+658,Strive Performance Tee,Performance Tees,Unisex,White,M,Summer,18.33,53.0,2025-03-14,active
+659,Strive Performance Tee,Performance Tees,Unisex,White,L,Fall,25.15,55.0,2025-05-01,active
+660,Strive Performance Tee,Performance Tees,Unisex,White,XL,Summer,18.47,48.0,2024-08-02,active
+661,Core Training Tee,Performance Tees,Men,Heather Grey,XS,Fall,17.88,52.0,2025-01-14,active
+662,Core Training Tee,Performance Tees,Men,Heather Grey,S,Spring,26.2,63.0,2024-08-08,active
+663,Core Training Tee,Performance Tees,Men,Heather Grey,M,Spring,25.48,50.0,2025-05-16,active
+664,Core Training Tee,Performance Tees,Men,Heather Grey,L,Summer,32.47,68.0,2025-01-19,active
+665,Core Training Tee,Performance Tees,Men,Heather Grey,XL,Core,29.04,64.0,2025-05-19,active
+666,Core Training Tee,Performance Tees,Men,Black,XS,Fall,23.64,68.0,2025-09-19,active
+667,Core Training Tee,Performance Tees,Men,Black,S,Summer,24.92,68.0,2024-12-16,active
+668,Core Training Tee,Performance Tees,Men,Black,M,Fall,16.8,49.0,2025-09-24,active
+669,Core Training Tee,Performance Tees,Men,Black,L,Fall,19.92,50.0,2025-06-23,active
+670,Core Training Tee,Performance Tees,Men,Black,XL,Spring,21.7,51.0,2025-09-17,active
+671,Core Training Tee,Performance Tees,Men,Sky,XS,Summer,26.53,52.0,2024-02-03,active
+672,Core Training Tee,Performance Tees,Men,Sky,S,Fall,22.8,64.0,2024-11-18,active
+673,Core Training Tee,Performance Tees,Men,Sky,M,Core,20.66,48.0,2025-08-18,active
+674,Core Training Tee,Performance Tees,Men,Sky,L,Core,29.3,68.0,2024-06-14,active
+675,Core Training Tee,Performance Tees,Men,Sky,XL,Core,19.91,51.0,2024-10-13,active
+676,Core Training Tee,Performance Tees,Men,Oat,XS,Core,28.74,66.0,2024-09-06,active
+677,Core Training Tee,Performance Tees,Men,Oat,S,Spring,20.5,52.0,2024-04-29,active
+678,Core Training Tee,Performance Tees,Men,Oat,M,Winter,21.06,56.0,2024-09-07,active
+679,Core Training Tee,Performance Tees,Men,Oat,L,Summer,26.3,57.0,2024-04-26,active
+680,Core Training Tee,Performance Tees,Men,Oat,XL,Winter,23.36,58.0,2024-08-15,active
+681,Core Training Tee,Performance Tees,Women,Heather Grey,XS,Core,23.09,57.0,2024-10-25,active
+682,Core Training Tee,Performance Tees,Women,Heather Grey,S,Core,18.55,49.0,2025-01-01,active
+683,Core Training Tee,Performance Tees,Women,Heather Grey,M,Fall,19.78,57.0,2024-08-07,active
+684,Core Training Tee,Performance Tees,Women,Heather Grey,L,Winter,22.59,59.0,2024-03-20,active
+685,Core Training Tee,Performance Tees,Women,Heather Grey,XL,Core,26.69,55.0,2024-03-24,active
+686,Core Training Tee,Performance Tees,Women,Black,XS,Winter,24.33,52.0,2025-01-23,active
+687,Core Training Tee,Performance Tees,Women,Black,S,Spring,24.89,62.0,2025-09-27,active
+688,Core Training Tee,Performance Tees,Women,Black,M,Spring,21.8,50.0,2024-11-28,active
+689,Core Training Tee,Performance Tees,Women,Black,L,Core,19.52,57.0,2025-01-27,active
+690,Core Training Tee,Performance Tees,Women,Black,XL,Spring,20.83,60.0,2024-06-18,active
+691,Core Training Tee,Performance Tees,Women,Sky,XS,Spring,24.53,63.0,2024-06-02,active
+692,Core Training Tee,Performance Tees,Women,Sky,S,Summer,20.61,55.0,2024-06-27,active
+693,Core Training Tee,Performance Tees,Women,Sky,M,Summer,22.46,56.0,2024-09-03,active
+694,Core Training Tee,Performance Tees,Women,Sky,L,Summer,18.6,54.0,2024-02-27,active
+695,Core Training Tee,Performance Tees,Women,Sky,XL,Core,27.99,54.0,2025-04-29,active
+696,Core Training Tee,Performance Tees,Women,Oat,XS,Summer,20.91,48.0,2024-11-18,active
+697,Core Training Tee,Performance Tees,Women,Oat,S,Core,22.93,48.0,2025-05-10,active
+698,Core Training Tee,Performance Tees,Women,Oat,M,Winter,24.25,58.0,2025-07-27,active
+699,Core Training Tee,Performance Tees,Women,Oat,L,Core,24.52,62.0,2025-05-31,active
+700,Core Training Tee,Performance Tees,Women,Oat,XL,Winter,30.1,58.0,2024-03-01,active
+701,Core Training Tee,Performance Tees,Unisex,Heather Grey,XS,Spring,21.99,48.0,2024-02-29,active
+702,Core Training Tee,Performance Tees,Unisex,Heather Grey,S,Winter,30.0,62.0,2025-05-07,active
+703,Core Training Tee,Performance Tees,Unisex,Heather Grey,M,Summer,20.74,58.0,2025-07-02,active
+704,Core Training Tee,Performance Tees,Unisex,Heather Grey,L,Fall,23.64,68.0,2024-09-22,active
+705,Core Training Tee,Performance Tees,Unisex,Heather Grey,XL,Fall,23.41,57.0,2024-06-18,active
+706,Core Training Tee,Performance Tees,Unisex,Black,XS,Core,19.04,49.0,2025-07-16,active
+707,Core Training Tee,Performance Tees,Unisex,Black,S,Fall,26.73,67.0,2024-09-29,active
+708,Core Training Tee,Performance Tees,Unisex,Black,M,Fall,18.93,49.0,2024-09-24,active
+709,Core Training Tee,Performance Tees,Unisex,Black,L,Fall,19.76,49.0,2024-04-07,active
+710,Core Training Tee,Performance Tees,Unisex,Black,XL,Summer,28.81,59.0,2024-09-21,active
+711,Core Training Tee,Performance Tees,Unisex,Sky,XS,Core,29.84,62.0,2025-09-12,active
+712,Core Training Tee,Performance Tees,Unisex,Sky,S,Fall,21.93,60.0,2025-06-20,active
+713,Core Training Tee,Performance Tees,Unisex,Sky,M,Fall,28.75,59.0,2024-04-18,active
+714,Core Training Tee,Performance Tees,Unisex,Sky,L,Spring,27.4,54.0,2024-06-17,active
+715,Core Training Tee,Performance Tees,Unisex,Sky,XL,Spring,25.84,55.0,2024-12-26,active
+716,Core Training Tee,Performance Tees,Unisex,Oat,XS,Spring,26.78,55.0,2025-01-17,active
+717,Core Training Tee,Performance Tees,Unisex,Oat,S,Winter,22.42,58.0,2024-11-23,active
+718,Core Training Tee,Performance Tees,Unisex,Oat,M,Core,27.98,55.0,2024-03-16,active
+719,Core Training Tee,Performance Tees,Unisex,Oat,L,Fall,21.1,53.0,2024-04-29,active
+720,Core Training Tee,Performance Tees,Unisex,Oat,XL,Spring,23.08,55.0,2025-04-04,active
+721,Daily Tech Tee,Performance Tees,Men,Oat,XS,Core,28.17,66.0,2025-05-08,active
+722,Daily Tech Tee,Performance Tees,Men,Oat,S,Winter,17.67,49.0,2025-01-09,active
+723,Daily Tech Tee,Performance Tees,Men,Oat,M,Winter,26.58,67.0,2024-07-27,active
+724,Daily Tech Tee,Performance Tees,Men,Oat,L,Fall,23.65,57.0,2024-07-15,active
+725,Daily Tech Tee,Performance Tees,Men,Oat,XL,Winter,25.45,66.0,2024-11-01,active
+726,Daily Tech Tee,Performance Tees,Men,Forest,XS,Spring,17.0,49.0,2024-03-15,active
+727,Daily Tech Tee,Performance Tees,Men,Forest,S,Winter,25.19,55.0,2024-10-12,active
+728,Daily Tech Tee,Performance Tees,Men,Forest,M,Fall,31.81,67.0,2024-09-14,active
+729,Daily Tech Tee,Performance Tees,Men,Forest,L,Core,19.88,50.0,2025-08-23,active
+730,Daily Tech Tee,Performance Tees,Men,Forest,XL,Fall,23.21,59.0,2025-06-18,active
+731,Daily Tech Tee,Performance Tees,Men,Black,XS,Spring,21.22,55.0,2025-03-01,active
+732,Daily Tech Tee,Performance Tees,Men,Black,S,Summer,20.13,52.0,2024-07-15,active
+733,Daily Tech Tee,Performance Tees,Men,Black,M,Core,22.52,56.0,2025-03-19,active
+734,Daily Tech Tee,Performance Tees,Men,Black,L,Summer,26.12,64.0,2024-07-04,active
+735,Daily Tech Tee,Performance Tees,Men,Black,XL,Core,29.51,68.0,2024-03-19,active
+736,Daily Tech Tee,Performance Tees,Men,White,XS,Core,22.44,64.0,2025-03-31,active
+737,Daily Tech Tee,Performance Tees,Men,White,S,Spring,32.09,62.0,2025-05-27,active
+738,Daily Tech Tee,Performance Tees,Men,White,M,Winter,21.62,49.0,2024-01-20,active
+739,Daily Tech Tee,Performance Tees,Men,White,L,Core,27.18,63.0,2024-02-21,active
+740,Daily Tech Tee,Performance Tees,Men,White,XL,Fall,29.91,66.0,2025-08-16,active
+741,Daily Tech Tee,Performance Tees,Women,Oat,XS,Spring,30.97,63.0,2024-12-01,active
+742,Daily Tech Tee,Performance Tees,Women,Oat,S,Spring,21.13,48.0,2025-03-29,active
+743,Daily Tech Tee,Performance Tees,Women,Oat,M,Spring,30.14,66.0,2024-11-08,active
+744,Daily Tech Tee,Performance Tees,Women,Oat,L,Summer,20.45,51.0,2025-03-26,active
+745,Daily Tech Tee,Performance Tees,Women,Oat,XL,Winter,18.56,52.0,2024-11-12,active
+746,Daily Tech Tee,Performance Tees,Women,Forest,XS,Spring,24.06,64.0,2024-06-25,active
+747,Daily Tech Tee,Performance Tees,Women,Forest,S,Summer,31.79,68.0,2025-01-10,active
+748,Daily Tech Tee,Performance Tees,Women,Forest,M,Spring,21.27,54.0,2025-03-20,active
+749,Daily Tech Tee,Performance Tees,Women,Forest,L,Core,21.91,63.0,2025-07-29,active
+750,Daily Tech Tee,Performance Tees,Women,Forest,XL,Summer,32.18,63.0,2024-07-19,active
+751,Daily Tech Tee,Performance Tees,Women,Black,XS,Spring,24.37,57.0,2025-07-12,active
+752,Daily Tech Tee,Performance Tees,Women,Black,S,Summer,23.43,54.0,2024-12-24,active
+753,Daily Tech Tee,Performance Tees,Women,Black,M,Core,30.1,60.0,2025-01-30,active
+754,Daily Tech Tee,Performance Tees,Women,Black,L,Winter,20.05,49.0,2024-01-02,active
+755,Daily Tech Tee,Performance Tees,Women,Black,XL,Spring,21.55,55.0,2024-06-24,active
+756,Daily Tech Tee,Performance Tees,Women,White,XS,Core,27.48,64.0,2025-01-28,active
+757,Daily Tech Tee,Performance Tees,Women,White,S,Winter,16.9,48.0,2024-01-18,active
+758,Daily Tech Tee,Performance Tees,Women,White,M,Summer,18.98,49.0,2024-09-11,active
+759,Daily Tech Tee,Performance Tees,Women,White,L,Fall,19.53,52.0,2024-03-26,active
+760,Daily Tech Tee,Performance Tees,Women,White,XL,Summer,25.78,58.0,2024-04-09,active
+761,Daily Tech Tee,Performance Tees,Unisex,Oat,XS,Spring,23.72,65.0,2025-04-16,active
+762,Daily Tech Tee,Performance Tees,Unisex,Oat,S,Fall,30.77,62.0,2025-06-16,active
+763,Daily Tech Tee,Performance Tees,Unisex,Oat,M,Winter,20.79,59.0,2024-07-26,active
+764,Daily Tech Tee,Performance Tees,Unisex,Oat,L,Spring,23.08,49.0,2025-08-29,active
+765,Daily Tech Tee,Performance Tees,Unisex,Oat,XL,Winter,22.17,63.0,2025-09-25,active
+766,Daily Tech Tee,Performance Tees,Unisex,Forest,XS,Core,23.14,65.0,2024-07-11,active
+767,Daily Tech Tee,Performance Tees,Unisex,Forest,S,Fall,24.19,49.0,2025-04-15,active
+768,Daily Tech Tee,Performance Tees,Unisex,Forest,M,Core,24.59,59.0,2024-07-01,active
+769,Daily Tech Tee,Performance Tees,Unisex,Forest,L,Fall,24.95,58.0,2025-07-23,active
+770,Daily Tech Tee,Performance Tees,Unisex,Forest,XL,Summer,24.97,51.0,2025-08-27,active
+771,Daily Tech Tee,Performance Tees,Unisex,Black,XS,Core,28.97,58.0,2024-03-12,active
+772,Daily Tech Tee,Performance Tees,Unisex,Black,S,Spring,24.02,62.0,2025-06-13,active
+773,Daily Tech Tee,Performance Tees,Unisex,Black,M,Fall,23.86,55.0,2024-06-18,active
+774,Daily Tech Tee,Performance Tees,Unisex,Black,L,Core,21.33,54.0,2025-05-05,active
+775,Daily Tech Tee,Performance Tees,Unisex,Black,XL,Summer,20.18,55.0,2025-05-31,active
+776,Daily Tech Tee,Performance Tees,Unisex,White,XS,Core,21.84,60.0,2024-10-16,active
+777,Daily Tech Tee,Performance Tees,Unisex,White,S,Fall,24.88,65.0,2024-10-06,active
+778,Daily Tech Tee,Performance Tees,Unisex,White,M,Spring,16.73,48.0,2024-07-08,active
+779,Daily Tech Tee,Performance Tees,Unisex,White,L,Spring,23.67,68.0,2024-08-02,active
+780,Daily Tech Tee,Performance Tees,Unisex,White,XL,Core,21.88,49.0,2024-08-07,active
+781,Studio Rib Tank,Tanks,Women,Navy,XS,Spring,21.7,58.0,2024-06-13,active
+782,Studio Rib Tank,Tanks,Women,Navy,S,Winter,21.47,48.0,2024-12-21,active
+783,Studio Rib Tank,Tanks,Women,Navy,M,Core,26.53,53.0,2025-04-26,active
+784,Studio Rib Tank,Tanks,Women,Navy,L,Summer,19.8,45.0,2024-06-07,active
+785,Studio Rib Tank,Tanks,Women,Navy,XL,Winter,28.43,56.0,2024-07-30,active
+786,Studio Rib Tank,Tanks,Women,Forest,XS,Fall,23.66,57.0,2025-09-15,active
+787,Studio Rib Tank,Tanks,Women,Forest,S,Summer,20.48,57.0,2024-11-07,active
+788,Studio Rib Tank,Tanks,Women,Forest,M,Core,20.42,58.0,2024-12-03,active
+789,Studio Rib Tank,Tanks,Women,Forest,L,Winter,20.28,54.0,2024-03-20,active
+790,Studio Rib Tank,Tanks,Women,Forest,XL,Winter,28.11,56.0,2024-03-03,active
+791,Studio Rib Tank,Tanks,Women,Heather Grey,XS,Winter,19.97,43.0,2024-02-13,active
+792,Studio Rib Tank,Tanks,Women,Heather Grey,S,Winter,22.5,46.0,2025-04-29,active
+793,Studio Rib Tank,Tanks,Women,Heather Grey,M,Winter,22.29,56.0,2025-01-10,active
+794,Studio Rib Tank,Tanks,Women,Heather Grey,L,Winter,20.06,45.0,2025-09-04,active
+795,Studio Rib Tank,Tanks,Women,Heather Grey,XL,Core,23.33,49.0,2024-10-06,active
+796,Studio Rib Tank,Tanks,Women,Black,XS,Fall,18.82,50.0,2024-04-12,active
+797,Studio Rib Tank,Tanks,Women,Black,S,Spring,20.82,47.0,2024-11-04,active
+798,Studio Rib Tank,Tanks,Women,Black,M,Fall,22.25,50.0,2024-09-15,active
+799,Studio Rib Tank,Tanks,Women,Black,L,Winter,22.07,47.0,2025-02-24,active
+800,Studio Rib Tank,Tanks,Women,Black,XL,Fall,20.81,46.0,2025-05-20,active
+801,Flow Training Tank,Tanks,Women,Oat,XS,Summer,24.86,50.0,2024-12-21,active
+802,Flow Training Tank,Tanks,Women,Oat,S,Spring,19.2,43.0,2024-04-26,active
+803,Flow Training Tank,Tanks,Women,Oat,M,Core,26.4,54.0,2024-08-31,active
+804,Flow Training Tank,Tanks,Women,Oat,L,Core,20.85,52.0,2025-04-10,active
+805,Flow Training Tank,Tanks,Women,Oat,XL,Summer,26.33,56.0,2024-08-24,active
+806,Flow Training Tank,Tanks,Women,Forest,XS,Summer,16.76,48.0,2025-05-15,active
+807,Flow Training Tank,Tanks,Women,Forest,S,Summer,18.32,45.0,2025-08-11,active
+808,Flow Training Tank,Tanks,Women,Forest,M,Summer,19.11,50.0,2025-08-27,active
+809,Flow Training Tank,Tanks,Women,Forest,L,Core,22.88,47.0,2025-07-01,active
+810,Flow Training Tank,Tanks,Women,Forest,XL,Core,26.65,55.0,2025-01-02,active
+811,Flow Training Tank,Tanks,Women,Charcoal,XS,Spring,26.66,52.0,2024-04-29,active
+812,Flow Training Tank,Tanks,Women,Charcoal,S,Winter,21.26,42.0,2025-08-19,active
+813,Flow Training Tank,Tanks,Women,Charcoal,M,Winter,21.97,50.0,2025-02-15,active
+814,Flow Training Tank,Tanks,Women,Charcoal,L,Winter,23.64,55.0,2024-05-06,active
+815,Flow Training Tank,Tanks,Women,Charcoal,XL,Winter,27.09,53.0,2024-11-14,active
+816,Flow Training Tank,Tanks,Women,Black,XS,Winter,16.08,46.0,2025-01-18,active
+817,Flow Training Tank,Tanks,Women,Black,S,Core,24.84,57.0,2025-05-14,active
+818,Flow Training Tank,Tanks,Women,Black,M,Summer,20.36,49.0,2025-07-12,active
+819,Flow Training Tank,Tanks,Women,Black,L,Summer,16.42,43.0,2024-07-21,active
+820,Flow Training Tank,Tanks,Women,Black,XL,Core,16.76,44.0,2025-08-08,active
+821,Daily Essential Tank,Tanks,Women,Heather Grey,XS,Spring,27.73,55.0,2025-02-04,active
+822,Daily Essential Tank,Tanks,Women,Heather Grey,S,Core,29.14,58.0,2025-08-07,active
+823,Daily Essential Tank,Tanks,Women,Heather Grey,M,Winter,20.77,46.0,2025-02-08,active
+824,Daily Essential Tank,Tanks,Women,Heather Grey,L,Core,17.15,50.0,2025-03-17,active
+825,Daily Essential Tank,Tanks,Women,Heather Grey,XL,Summer,27.4,57.0,2025-01-09,active
+826,Daily Essential Tank,Tanks,Women,Charcoal,XS,Fall,20.29,47.0,2024-01-08,active
+827,Daily Essential Tank,Tanks,Women,Charcoal,S,Summer,16.85,42.0,2024-10-06,active
+828,Daily Essential Tank,Tanks,Women,Charcoal,M,Core,17.93,44.0,2024-12-03,active
+829,Daily Essential Tank,Tanks,Women,Charcoal,L,Summer,19.48,49.0,2024-04-20,active
+830,Daily Essential Tank,Tanks,Women,Charcoal,XL,Winter,21.92,51.0,2024-12-13,active
+831,Daily Essential Tank,Tanks,Women,Navy,XS,Winter,21.13,54.0,2025-08-31,active
+832,Daily Essential Tank,Tanks,Women,Navy,S,Fall,22.46,58.0,2024-01-17,active
+833,Daily Essential Tank,Tanks,Women,Navy,M,Winter,25.27,56.0,2024-01-20,active
+834,Daily Essential Tank,Tanks,Women,Navy,L,Winter,18.62,43.0,2025-04-22,active
+835,Daily Essential Tank,Tanks,Women,Navy,XL,Spring,16.33,47.0,2024-09-10,active
+836,Daily Essential Tank,Tanks,Women,Plum,XS,Spring,25.44,49.0,2025-02-23,active
+837,Daily Essential Tank,Tanks,Women,Plum,S,Core,25.18,53.0,2024-12-22,active
+838,Daily Essential Tank,Tanks,Women,Plum,M,Winter,21.68,48.0,2024-12-14,active
+839,Daily Essential Tank,Tanks,Women,Plum,L,Core,19.91,55.0,2025-07-03,active
+840,Daily Essential Tank,Tanks,Women,Plum,XL,Spring,23.54,48.0,2024-01-17,active
+841,Studio Sculpt Legging,Leggings,Women,Stone,XS,Spring,36.25,98.0,2024-05-08,active
+842,Studio Sculpt Legging,Leggings,Women,Stone,S,Winter,47.82,100.0,2025-02-11,active
+843,Studio Sculpt Legging,Leggings,Women,Stone,M,Winter,39.14,108.0,2025-06-07,active
+844,Studio Sculpt Legging,Leggings,Women,Stone,L,Core,41.29,116.0,2024-08-24,active
+845,Studio Sculpt Legging,Leggings,Women,Stone,XL,Core,59.8,117.0,2024-10-06,active
+846,Studio Sculpt Legging,Leggings,Women,Black,XS,Fall,45.6,108.0,2025-03-27,active
+847,Studio Sculpt Legging,Leggings,Women,Black,S,Core,32.2,88.0,2024-10-22,active
+848,Studio Sculpt Legging,Leggings,Women,Black,M,Summer,43.69,95.0,2024-02-03,active
+849,Studio Sculpt Legging,Leggings,Women,Black,L,Summer,56.06,115.0,2024-12-03,active
+850,Studio Sculpt Legging,Leggings,Women,Black,XL,Summer,43.16,111.0,2024-03-27,active
+851,Studio Sculpt Legging,Leggings,Women,Charcoal,XS,Core,46.53,94.0,2024-12-23,active
+852,Studio Sculpt Legging,Leggings,Women,Charcoal,S,Summer,57.26,115.0,2025-08-05,active
+853,Studio Sculpt Legging,Leggings,Women,Charcoal,M,Spring,48.23,95.0,2025-07-30,active
+854,Studio Sculpt Legging,Leggings,Women,Charcoal,L,Spring,44.53,101.0,2024-08-09,active
+855,Studio Sculpt Legging,Leggings,Women,Charcoal,XL,Fall,36.81,96.0,2025-09-27,active
+856,Studio Sculpt Legging,Leggings,Women,Navy,XS,Winter,51.48,103.0,2024-12-13,active
+857,Studio Sculpt Legging,Leggings,Women,Navy,S,Winter,43.38,104.0,2024-06-03,active
+858,Studio Sculpt Legging,Leggings,Women,Navy,M,Winter,45.88,94.0,2024-08-29,active
+859,Studio Sculpt Legging,Leggings,Women,Navy,L,Summer,52.45,110.0,2025-09-26,active
+860,Studio Sculpt Legging,Leggings,Women,Navy,XL,Summer,44.73,114.0,2025-06-14,active
+861,Daily Movement Legging,Leggings,Women,Black,XS,Core,37.41,90.0,2025-09-27,active
+862,Daily Movement Legging,Leggings,Women,Black,S,Core,42.15,100.0,2025-04-21,active
+863,Daily Movement Legging,Leggings,Women,Black,M,Spring,41.53,94.0,2024-09-09,active
+864,Daily Movement Legging,Leggings,Women,Black,L,Summer,54.54,111.0,2024-05-24,active
+865,Daily Movement Legging,Leggings,Women,Black,XL,Fall,44.58,116.0,2024-09-09,active
+866,Daily Movement Legging,Leggings,Women,Sky,XS,Spring,52.62,105.0,2025-05-30,active
+867,Daily Movement Legging,Leggings,Women,Sky,S,Winter,46.65,110.0,2025-01-02,active
+868,Daily Movement Legging,Leggings,Women,Sky,M,Fall,43.23,105.0,2024-10-13,active
+869,Daily Movement Legging,Leggings,Women,Sky,L,Fall,41.73,97.0,2025-01-07,active
+870,Daily Movement Legging,Leggings,Women,Sky,XL,Summer,53.11,112.0,2025-06-07,active
+871,Daily Movement Legging,Leggings,Women,Stone,XS,Spring,53.31,108.0,2025-05-27,active
+872,Daily Movement Legging,Leggings,Women,Stone,S,Winter,35.22,90.0,2025-01-07,active
+873,Daily Movement Legging,Leggings,Women,Stone,M,Summer,45.62,99.0,2024-06-01,active
+874,Daily Movement Legging,Leggings,Women,Stone,L,Summer,52.61,103.0,2024-11-23,active
+875,Daily Movement Legging,Leggings,Women,Stone,XL,Core,46.07,89.0,2025-07-14,active
+876,Daily Movement Legging,Leggings,Women,Plum,XS,Spring,45.34,93.0,2024-04-16,active
+877,Daily Movement Legging,Leggings,Women,Plum,S,Winter,58.12,117.0,2024-09-08,active
+878,Daily Movement Legging,Leggings,Women,Plum,M,Core,44.26,108.0,2024-12-06,active
+879,Daily Movement Legging,Leggings,Women,Plum,L,Core,44.55,105.0,2025-03-30,active
+880,Daily Movement Legging,Leggings,Women,Plum,XL,Winter,35.96,97.0,2024-05-27,active
+881,Elevation Pocket Legging,Leggings,Women,Black,XS,Summer,45.53,92.0,2025-09-07,active
+882,Elevation Pocket Legging,Leggings,Women,Black,S,Fall,53.39,103.0,2024-09-15,active
+883,Elevation Pocket Legging,Leggings,Women,Black,M,Summer,45.38,105.0,2025-08-13,active
+884,Elevation Pocket Legging,Leggings,Women,Black,L,Summer,40.97,99.0,2024-10-01,active
+885,Elevation Pocket Legging,Leggings,Women,Black,XL,Spring,52.94,110.0,2024-07-16,active
+886,Elevation Pocket Legging,Leggings,Women,Heather Grey,XS,Winter,50.07,100.0,2025-07-29,active
+887,Elevation Pocket Legging,Leggings,Women,Heather Grey,S,Fall,42.67,97.0,2024-01-22,active
+888,Elevation Pocket Legging,Leggings,Women,Heather Grey,M,Spring,40.59,96.0,2025-05-26,active
+889,Elevation Pocket Legging,Leggings,Women,Heather Grey,L,Core,48.59,104.0,2024-02-29,active
+890,Elevation Pocket Legging,Leggings,Women,Heather Grey,XL,Summer,44.28,90.0,2024-12-07,active
+891,Elevation Pocket Legging,Leggings,Women,Stone,XS,Spring,44.94,111.0,2024-10-30,active
+892,Elevation Pocket Legging,Leggings,Women,Stone,S,Core,35.12,94.0,2025-05-08,active
+893,Elevation Pocket Legging,Leggings,Women,Stone,M,Fall,33.87,89.0,2024-01-23,active
+894,Elevation Pocket Legging,Leggings,Women,Stone,L,Fall,40.06,113.0,2024-12-29,active
+895,Elevation Pocket Legging,Leggings,Women,Stone,XL,Fall,55.61,112.0,2024-11-21,active
+896,Elevation Pocket Legging,Leggings,Women,Sky,XS,Winter,46.93,108.0,2024-10-06,active
+897,Elevation Pocket Legging,Leggings,Women,Sky,S,Spring,41.54,116.0,2025-01-10,active
+898,Elevation Pocket Legging,Leggings,Women,Sky,M,Spring,45.91,90.0,2024-11-19,active
+899,Elevation Pocket Legging,Leggings,Women,Sky,L,Summer,53.07,108.0,2025-06-06,active
+900,Elevation Pocket Legging,Leggings,Women,Sky,XL,Spring,45.0,93.0,2024-05-20,active
+901,Ace Performance Polo,Polos,Men,Black,S,Spring,30.55,79.0,2024-11-24,active
+902,Ace Performance Polo,Polos,Men,Black,M,Winter,27.61,77.0,2024-03-15,active
+903,Ace Performance Polo,Polos,Men,Black,L,Winter,27.29,72.0,2024-08-12,active
+904,Ace Performance Polo,Polos,Men,Black,XL,Core,31.9,73.0,2025-03-15,active
+905,Ace Performance Polo,Polos,Men,Oat,S,Spring,37.77,77.0,2024-09-03,active
+906,Ace Performance Polo,Polos,Men,Oat,M,Core,39.88,77.0,2025-04-18,active
+907,Ace Performance Polo,Polos,Men,Oat,L,Summer,31.24,69.0,2025-01-05,active
+908,Ace Performance Polo,Polos,Men,Oat,XL,Core,37.82,79.0,2025-03-10,active
+909,Ace Performance Polo,Polos,Men,White,S,Fall,23.87,68.0,2024-11-11,active
+910,Ace Performance Polo,Polos,Men,White,M,Summer,30.72,80.0,2024-03-17,active
+911,Ace Performance Polo,Polos,Men,White,L,Spring,29.85,80.0,2025-04-12,active
+912,Ace Performance Polo,Polos,Men,White,XL,Winter,33.81,68.0,2024-01-29,active
+913,Ace Performance Polo,Polos,Men,Charcoal,S,Fall,26.23,76.0,2024-01-26,active
+914,Ace Performance Polo,Polos,Men,Charcoal,M,Fall,34.9,78.0,2024-06-29,active
+915,Ace Performance Polo,Polos,Men,Charcoal,L,Winter,27.43,70.0,2025-08-13,active
+916,Ace Performance Polo,Polos,Men,Charcoal,XL,Core,40.96,80.0,2024-02-04,active
+917,Clubhouse Tech Polo,Polos,Men,Black,S,Core,40.17,85.0,2024-03-23,active
+918,Clubhouse Tech Polo,Polos,Men,Black,M,Winter,32.59,77.0,2024-05-09,active
+919,Clubhouse Tech Polo,Polos,Men,Black,L,Fall,37.37,82.0,2025-09-02,active
+920,Clubhouse Tech Polo,Polos,Men,Black,XL,Spring,29.7,73.0,2025-01-26,active
+921,Clubhouse Tech Polo,Polos,Men,Stone,S,Winter,35.11,84.0,2024-12-14,active
+922,Clubhouse Tech Polo,Polos,Men,Stone,M,Core,27.57,73.0,2024-08-25,active
+923,Clubhouse Tech Polo,Polos,Men,Stone,L,Winter,25.31,72.0,2024-02-18,active
+924,Clubhouse Tech Polo,Polos,Men,Stone,XL,Summer,30.63,75.0,2024-06-26,active
+925,Clubhouse Tech Polo,Polos,Men,Forest,S,Summer,33.81,85.0,2024-12-09,active
+926,Clubhouse Tech Polo,Polos,Men,Forest,M,Spring,39.93,87.0,2025-09-04,active
+927,Clubhouse Tech Polo,Polos,Men,Forest,L,Winter,35.06,83.0,2025-09-19,active
+928,Clubhouse Tech Polo,Polos,Men,Forest,XL,Fall,31.38,79.0,2024-12-01,active
+929,Clubhouse Tech Polo,Polos,Men,Oat,S,Winter,27.53,76.0,2025-06-23,active
+930,Clubhouse Tech Polo,Polos,Men,Oat,M,Winter,40.09,79.0,2024-05-23,active
+931,Clubhouse Tech Polo,Polos,Men,Oat,L,Fall,34.21,81.0,2024-01-11,active
+932,Clubhouse Tech Polo,Polos,Men,Oat,XL,Spring,26.38,73.0,2025-07-17,active
+933,Daily Stretch Polo,Polos,Men,White,S,Fall,24.98,70.0,2024-04-13,active
+934,Daily Stretch Polo,Polos,Men,White,M,Summer,32.46,74.0,2024-07-29,active
+935,Daily Stretch Polo,Polos,Men,White,L,Spring,38.72,76.0,2024-01-16,active
+936,Daily Stretch Polo,Polos,Men,White,XL,Core,30.04,82.0,2024-03-22,active
+937,Daily Stretch Polo,Polos,Men,Charcoal,S,Core,35.54,79.0,2025-01-30,active
+938,Daily Stretch Polo,Polos,Men,Charcoal,M,Summer,42.78,83.0,2024-02-26,active
+939,Daily Stretch Polo,Polos,Men,Charcoal,L,Summer,35.74,86.0,2025-02-02,active
+940,Daily Stretch Polo,Polos,Men,Charcoal,XL,Core,28.25,77.0,2025-08-18,active
+941,Daily Stretch Polo,Polos,Men,Sky,S,Core,35.63,78.0,2024-08-30,active
+942,Daily Stretch Polo,Polos,Men,Sky,M,Fall,40.49,80.0,2024-02-06,active
+943,Daily Stretch Polo,Polos,Men,Sky,L,Fall,29.35,80.0,2025-03-26,active
+944,Daily Stretch Polo,Polos,Men,Sky,XL,Spring,29.97,71.0,2025-03-07,active
+945,Daily Stretch Polo,Polos,Men,Navy,S,Spring,41.97,85.0,2024-06-05,active
+946,Daily Stretch Polo,Polos,Men,Navy,M,Spring,37.95,73.0,2025-03-29,active
+947,Daily Stretch Polo,Polos,Men,Navy,L,Spring,39.68,86.0,2024-04-13,active
+948,Daily Stretch Polo,Polos,Men,Navy,XL,Fall,32.88,71.0,2025-01-12,active
+949,Summit Shell Jacket,Outerwear,Men,Navy,S,Core,72.38,164.0,2025-04-04,active
+950,Summit Shell Jacket,Outerwear,Men,Navy,M,Winter,85.83,202.0,2025-04-17,active
+951,Summit Shell Jacket,Outerwear,Men,Navy,L,Spring,59.14,154.0,2025-02-24,active
+952,Summit Shell Jacket,Outerwear,Men,Navy,XL,Core,86.27,227.0,2024-03-24,active
+953,Summit Shell Jacket,Outerwear,Men,Oat,S,Spring,62.96,161.0,2025-04-21,active
+954,Summit Shell Jacket,Outerwear,Men,Oat,M,Winter,84.16,174.0,2024-01-14,active
+955,Summit Shell Jacket,Outerwear,Men,Oat,L,Spring,80.15,218.0,2024-02-29,active
+956,Summit Shell Jacket,Outerwear,Men,Oat,XL,Spring,80.2,159.0,2025-05-24,active
+957,Summit Shell Jacket,Outerwear,Men,Heather Grey,S,Summer,64.45,175.0,2024-12-01,active
+958,Summit Shell Jacket,Outerwear,Men,Heather Grey,M,Winter,84.76,168.0,2024-04-03,active
+959,Summit Shell Jacket,Outerwear,Men,Heather Grey,L,Spring,80.94,226.0,2025-04-20,active
+960,Summit Shell Jacket,Outerwear,Men,Heather Grey,XL,Core,73.54,168.0,2024-08-04,active
+961,Summit Shell Jacket,Outerwear,Men,Plum,S,Summer,75.36,170.0,2025-09-27,active
+962,Summit Shell Jacket,Outerwear,Men,Plum,M,Summer,84.57,185.0,2024-06-11,active
+963,Summit Shell Jacket,Outerwear,Men,Plum,L,Spring,96.12,223.0,2024-09-13,active
+964,Summit Shell Jacket,Outerwear,Men,Plum,XL,Winter,93.56,200.0,2024-05-19,active
+965,Summit Shell Jacket,Outerwear,Women,Navy,S,Winter,98.2,218.0,2025-06-14,active
+966,Summit Shell Jacket,Outerwear,Women,Navy,M,Winter,70.06,156.0,2024-05-03,active
+967,Summit Shell Jacket,Outerwear,Women,Navy,L,Core,58.6,167.0,2025-09-08,active
+968,Summit Shell Jacket,Outerwear,Women,Navy,XL,Core,71.98,160.0,2025-01-21,active
+969,Summit Shell Jacket,Outerwear,Women,Oat,S,Core,84.68,214.0,2025-08-07,active
+970,Summit Shell Jacket,Outerwear,Women,Oat,M,Spring,82.05,193.0,2025-06-11,active
+971,Summit Shell Jacket,Outerwear,Women,Oat,L,Winter,85.18,165.0,2025-04-26,active
+972,Summit Shell Jacket,Outerwear,Women,Oat,XL,Summer,96.09,215.0,2024-10-26,active
+973,Summit Shell Jacket,Outerwear,Women,Heather Grey,S,Winter,73.88,208.0,2024-09-10,active
+974,Summit Shell Jacket,Outerwear,Women,Heather Grey,M,Winter,70.19,195.0,2024-07-31,active
+975,Summit Shell Jacket,Outerwear,Women,Heather Grey,L,Fall,81.69,208.0,2024-07-22,active
+976,Summit Shell Jacket,Outerwear,Women,Heather Grey,XL,Core,97.33,209.0,2024-12-04,active
+977,Summit Shell Jacket,Outerwear,Women,Plum,S,Fall,104.69,205.0,2024-06-08,active
+978,Summit Shell Jacket,Outerwear,Women,Plum,M,Summer,66.51,174.0,2024-09-12,active
+979,Summit Shell Jacket,Outerwear,Women,Plum,L,Spring,88.48,208.0,2024-03-13,active
+980,Summit Shell Jacket,Outerwear,Women,Plum,XL,Core,63.22,173.0,2024-09-06,active
+981,Summit Shell Jacket,Outerwear,Unisex,Navy,S,Fall,97.31,217.0,2025-02-13,active
+982,Summit Shell Jacket,Outerwear,Unisex,Navy,M,Summer,74.19,211.0,2024-08-26,active
+983,Summit Shell Jacket,Outerwear,Unisex,Navy,L,Winter,85.88,166.0,2024-03-23,active
+984,Summit Shell Jacket,Outerwear,Unisex,Navy,XL,Fall,67.5,198.0,2024-07-12,active
+985,Summit Shell Jacket,Outerwear,Unisex,Oat,S,Winter,81.26,199.0,2024-05-30,active
+986,Summit Shell Jacket,Outerwear,Unisex,Oat,M,Summer,87.89,209.0,2024-09-05,active
+987,Summit Shell Jacket,Outerwear,Unisex,Oat,L,Winter,96.02,227.0,2024-07-20,active
+988,Summit Shell Jacket,Outerwear,Unisex,Oat,XL,Fall,85.42,222.0,2024-05-12,active
+989,Summit Shell Jacket,Outerwear,Unisex,Heather Grey,S,Winter,70.79,155.0,2024-01-17,active
+990,Summit Shell Jacket,Outerwear,Unisex,Heather Grey,M,Spring,84.55,197.0,2024-10-22,active
+991,Summit Shell Jacket,Outerwear,Unisex,Heather Grey,L,Summer,60.61,160.0,2024-11-18,active
+992,Summit Shell Jacket,Outerwear,Unisex,Heather Grey,XL,Spring,82.23,196.0,2024-03-29,active
+993,Summit Shell Jacket,Outerwear,Unisex,Plum,S,Core,89.2,219.0,2024-02-15,active
+994,Summit Shell Jacket,Outerwear,Unisex,Plum,M,Spring,67.47,181.0,2024-04-01,active
+995,Summit Shell Jacket,Outerwear,Unisex,Plum,L,Spring,63.1,184.0,2024-12-05,active
+996,Summit Shell Jacket,Outerwear,Unisex,Plum,XL,Spring,100.63,214.0,2024-03-02,active
+997,Canyon Insulated Vest,Outerwear,Men,Black,S,Spring,79.79,210.0,2024-06-20,active
+998,Canyon Insulated Vest,Outerwear,Men,Black,M,Winter,80.73,168.0,2025-02-25,active
+999,Canyon Insulated Vest,Outerwear,Men,Black,L,Fall,72.0,191.0,2024-07-21,active
+1000,Canyon Insulated Vest,Outerwear,Men,Black,XL,Core,105.13,208.0,2024-12-15,active
+1001,Canyon Insulated Vest,Outerwear,Men,Stone,S,Core,79.38,161.0,2025-08-09,active
+1002,Canyon Insulated Vest,Outerwear,Men,Stone,M,Spring,55.07,158.0,2024-10-24,active
+1003,Canyon Insulated Vest,Outerwear,Men,Stone,L,Spring,67.23,174.0,2024-09-06,active
+1004,Canyon Insulated Vest,Outerwear,Men,Stone,XL,Core,84.04,224.0,2025-09-02,active
+1005,Canyon Insulated Vest,Outerwear,Men,Oat,S,Winter,93.35,205.0,2025-05-01,active
+1006,Canyon Insulated Vest,Outerwear,Men,Oat,M,Spring,88.53,194.0,2024-07-31,active
+1007,Canyon Insulated Vest,Outerwear,Men,Oat,L,Summer,58.75,149.0,2025-08-23,active
+1008,Canyon Insulated Vest,Outerwear,Men,Oat,XL,Fall,81.55,178.0,2025-03-31,active
+1009,Canyon Insulated Vest,Outerwear,Men,Navy,S,Winter,68.58,186.0,2025-02-08,active
+1010,Canyon Insulated Vest,Outerwear,Men,Navy,M,Spring,82.88,213.0,2024-06-22,active
+1011,Canyon Insulated Vest,Outerwear,Men,Navy,L,Fall,88.72,222.0,2024-07-31,active
+1012,Canyon Insulated Vest,Outerwear,Men,Navy,XL,Fall,57.34,153.0,2024-05-01,active
+1013,Canyon Insulated Vest,Outerwear,Women,Black,S,Core,77.95,168.0,2024-03-23,active
+1014,Canyon Insulated Vest,Outerwear,Women,Black,M,Spring,79.35,158.0,2024-09-30,active
+1015,Canyon Insulated Vest,Outerwear,Women,Black,L,Winter,95.85,204.0,2024-01-28,active
+1016,Canyon Insulated Vest,Outerwear,Women,Black,XL,Winter,67.94,194.0,2025-06-23,active
+1017,Canyon Insulated Vest,Outerwear,Women,Stone,S,Spring,59.58,151.0,2024-08-28,active
+1018,Canyon Insulated Vest,Outerwear,Women,Stone,M,Core,65.02,185.0,2025-09-29,active
+1019,Canyon Insulated Vest,Outerwear,Women,Stone,L,Winter,85.02,180.0,2025-02-13,active
+1020,Canyon Insulated Vest,Outerwear,Women,Stone,XL,Spring,59.32,159.0,2025-07-03,active
+1021,Canyon Insulated Vest,Outerwear,Women,Oat,S,Spring,64.99,161.0,2025-01-18,active
+1022,Canyon Insulated Vest,Outerwear,Women,Oat,M,Spring,71.95,180.0,2024-04-29,active
+1023,Canyon Insulated Vest,Outerwear,Women,Oat,L,Summer,109.56,217.0,2024-02-06,active
+1024,Canyon Insulated Vest,Outerwear,Women,Oat,XL,Spring,107.85,210.0,2025-09-20,active
+1025,Canyon Insulated Vest,Outerwear,Women,Navy,S,Winter,68.12,152.0,2025-04-02,active
+1026,Canyon Insulated Vest,Outerwear,Women,Navy,M,Spring,62.07,166.0,2024-03-02,active
+1027,Canyon Insulated Vest,Outerwear,Women,Navy,L,Winter,109.73,212.0,2025-01-21,active
+1028,Canyon Insulated Vest,Outerwear,Women,Navy,XL,Winter,83.79,162.0,2025-03-30,active
+1029,Canyon Insulated Vest,Outerwear,Unisex,Black,S,Summer,86.81,175.0,2024-01-26,active
+1030,Canyon Insulated Vest,Outerwear,Unisex,Black,M,Core,87.99,204.0,2024-01-03,active
+1031,Canyon Insulated Vest,Outerwear,Unisex,Black,L,Spring,89.55,209.0,2024-06-13,active
+1032,Canyon Insulated Vest,Outerwear,Unisex,Black,XL,Winter,53.17,150.0,2024-02-06,active
+1033,Canyon Insulated Vest,Outerwear,Unisex,Stone,S,Summer,58.16,159.0,2025-07-07,active
+1034,Canyon Insulated Vest,Outerwear,Unisex,Stone,M,Fall,58.97,171.0,2024-05-04,active
+1035,Canyon Insulated Vest,Outerwear,Unisex,Stone,L,Summer,85.39,187.0,2025-03-23,active
+1036,Canyon Insulated Vest,Outerwear,Unisex,Stone,XL,Spring,59.97,168.0,2024-12-21,active
+1037,Canyon Insulated Vest,Outerwear,Unisex,Oat,S,Core,92.55,194.0,2025-08-19,active
+1038,Canyon Insulated Vest,Outerwear,Unisex,Oat,M,Core,97.32,213.0,2025-08-09,active
+1039,Canyon Insulated Vest,Outerwear,Unisex,Oat,L,Spring,73.58,216.0,2024-09-23,active
+1040,Canyon Insulated Vest,Outerwear,Unisex,Oat,XL,Summer,58.93,165.0,2024-03-11,active
+1041,Canyon Insulated Vest,Outerwear,Unisex,Navy,S,Fall,78.14,162.0,2025-03-24,active
+1042,Canyon Insulated Vest,Outerwear,Unisex,Navy,M,Summer,95.87,202.0,2024-04-03,active
+1043,Canyon Insulated Vest,Outerwear,Unisex,Navy,L,Summer,76.93,197.0,2024-01-09,active
+1044,Canyon Insulated Vest,Outerwear,Unisex,Navy,XL,Winter,104.52,215.0,2024-06-24,active
+1045,Trail Lightweight Jacket,Outerwear,Men,Heather Grey,S,Summer,75.76,202.0,2024-07-07,active
+1046,Trail Lightweight Jacket,Outerwear,Men,Heather Grey,M,Spring,78.37,187.0,2024-06-01,active
+1047,Trail Lightweight Jacket,Outerwear,Men,Heather Grey,L,Spring,67.66,189.0,2024-11-25,active
+1048,Trail Lightweight Jacket,Outerwear,Men,Heather Grey,XL,Summer,80.85,158.0,2024-06-03,active
+1049,Trail Lightweight Jacket,Outerwear,Men,Stone,S,Core,70.04,176.0,2025-02-24,active
+1050,Trail Lightweight Jacket,Outerwear,Men,Stone,M,Spring,97.55,193.0,2025-05-18,active
+1051,Trail Lightweight Jacket,Outerwear,Men,Stone,L,Summer,69.1,157.0,2024-07-08,active
+1052,Trail Lightweight Jacket,Outerwear,Men,Stone,XL,Spring,105.64,212.0,2024-07-12,active
+1053,Trail Lightweight Jacket,Outerwear,Men,Charcoal,S,Core,99.34,226.0,2024-09-21,active
+1054,Trail Lightweight Jacket,Outerwear,Men,Charcoal,M,Spring,64.84,187.0,2024-06-25,active
+1055,Trail Lightweight Jacket,Outerwear,Men,Charcoal,L,Spring,61.71,156.0,2024-06-24,active
+1056,Trail Lightweight Jacket,Outerwear,Men,Charcoal,XL,Summer,53.5,151.0,2024-04-11,active
+1057,Trail Lightweight Jacket,Outerwear,Men,White,S,Spring,65.16,153.0,2025-06-21,active
+1058,Trail Lightweight Jacket,Outerwear,Men,White,M,Summer,62.08,166.0,2025-09-18,active
+1059,Trail Lightweight Jacket,Outerwear,Men,White,L,Summer,82.18,225.0,2025-08-23,active
+1060,Trail Lightweight Jacket,Outerwear,Men,White,XL,Fall,89.28,196.0,2025-03-17,active
+1061,Trail Lightweight Jacket,Outerwear,Women,Heather Grey,S,Fall,99.95,205.0,2024-04-24,active
+1062,Trail Lightweight Jacket,Outerwear,Women,Heather Grey,M,Winter,76.07,191.0,2025-09-02,active
+1063,Trail Lightweight Jacket,Outerwear,Women,Heather Grey,L,Spring,69.56,201.0,2024-01-22,active
+1064,Trail Lightweight Jacket,Outerwear,Women,Heather Grey,XL,Spring,58.02,155.0,2025-06-20,active
+1065,Trail Lightweight Jacket,Outerwear,Women,Stone,S,Spring,82.33,198.0,2024-01-25,active
+1066,Trail Lightweight Jacket,Outerwear,Women,Stone,M,Winter,73.84,183.0,2025-01-31,active
+1067,Trail Lightweight Jacket,Outerwear,Women,Stone,L,Spring,83.13,194.0,2024-06-01,active
+1068,Trail Lightweight Jacket,Outerwear,Women,Stone,XL,Core,107.61,226.0,2025-09-04,active
+1069,Trail Lightweight Jacket,Outerwear,Women,Charcoal,S,Fall,64.13,186.0,2024-03-27,active
+1070,Trail Lightweight Jacket,Outerwear,Women,Charcoal,M,Spring,66.79,173.0,2025-07-11,active
+1071,Trail Lightweight Jacket,Outerwear,Women,Charcoal,L,Summer,71.8,206.0,2025-08-13,active
+1072,Trail Lightweight Jacket,Outerwear,Women,Charcoal,XL,Spring,67.19,150.0,2024-07-24,active
+1073,Trail Lightweight Jacket,Outerwear,Women,White,S,Winter,113.43,223.0,2024-12-05,active
+1074,Trail Lightweight Jacket,Outerwear,Women,White,M,Spring,77.33,197.0,2024-11-06,active
+1075,Trail Lightweight Jacket,Outerwear,Women,White,L,Winter,74.17,207.0,2024-03-03,active
+1076,Trail Lightweight Jacket,Outerwear,Women,White,XL,Winter,59.21,173.0,2025-09-14,active
+1077,Trail Lightweight Jacket,Outerwear,Unisex,Heather Grey,S,Summer,99.27,205.0,2024-12-18,active
+1078,Trail Lightweight Jacket,Outerwear,Unisex,Heather Grey,M,Core,89.24,216.0,2024-02-29,active
+1079,Trail Lightweight Jacket,Outerwear,Unisex,Heather Grey,L,Fall,71.85,189.0,2024-02-13,active
+1080,Trail Lightweight Jacket,Outerwear,Unisex,Heather Grey,XL,Fall,58.6,170.0,2024-02-21,active
+1081,Trail Lightweight Jacket,Outerwear,Unisex,Stone,S,Fall,71.37,177.0,2024-08-01,active
+1082,Trail Lightweight Jacket,Outerwear,Unisex,Stone,M,Spring,85.98,219.0,2025-07-31,active
+1083,Trail Lightweight Jacket,Outerwear,Unisex,Stone,L,Spring,85.39,175.0,2024-08-27,active
+1084,Trail Lightweight Jacket,Outerwear,Unisex,Stone,XL,Core,67.16,156.0,2024-10-15,active
+1085,Trail Lightweight Jacket,Outerwear,Unisex,Charcoal,S,Summer,94.58,212.0,2025-07-18,active
+1086,Trail Lightweight Jacket,Outerwear,Unisex,Charcoal,M,Core,61.92,179.0,2024-12-02,active
+1087,Trail Lightweight Jacket,Outerwear,Unisex,Charcoal,L,Summer,60.28,151.0,2024-05-08,active
+1088,Trail Lightweight Jacket,Outerwear,Unisex,Charcoal,XL,Fall,77.6,176.0,2025-08-21,active
+1089,Trail Lightweight Jacket,Outerwear,Unisex,White,S,Spring,92.93,202.0,2025-07-05,active
+1090,Trail Lightweight Jacket,Outerwear,Unisex,White,M,Spring,78.38,176.0,2025-07-06,active
+1091,Trail Lightweight Jacket,Outerwear,Unisex,White,L,Summer,69.11,173.0,2025-01-10,active
+1092,Trail Lightweight Jacket,Outerwear,Unisex,White,XL,Spring,72.86,200.0,2024-08-26,active
+1093,Performance Crew Sock,Accessories,Unisex,Forest,One Size,Spring,13.32,32.0,2024-11-20,active
+1094,Performance Crew Sock,Accessories,Unisex,Black,One Size,Core,18.98,45.0,2025-08-08,active
+1095,Performance Crew Sock,Accessories,Unisex,Oat,One Size,Core,9.42,19.0,2024-07-02,active
+1096,Performance Crew Sock,Accessories,Unisex,Plum,One Size,Winter,16.94,45.0,2024-12-22,active
+1097,Training Cap,Accessories,Unisex,White,One Size,Summer,10.58,29.0,2024-09-11,active
+1098,Training Cap,Accessories,Unisex,Oat,One Size,Core,19.67,57.0,2024-06-07,active
+1099,Training Cap,Accessories,Unisex,Forest,One Size,Spring,19.79,56.0,2025-04-11,active
+1100,Training Cap,Accessories,Unisex,Plum,One Size,Fall,21.01,46.0,2025-06-28,active
+1101,Everyday Sling Bag,Accessories,Unisex,Forest,One Size,Summer,22.08,51.0,2025-06-04,active
+1102,Everyday Sling Bag,Accessories,Unisex,Navy,One Size,Winter,18.98,53.0,2024-11-19,active
+1103,Everyday Sling Bag,Accessories,Unisex,Stone,One Size,Spring,25.06,58.0,2024-03-26,active
+1104,Everyday Sling Bag,Accessories,Unisex,White,One Size,Winter,14.13,37.0,2024-07-10,active
