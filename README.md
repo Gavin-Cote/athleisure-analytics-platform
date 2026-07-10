@@ -6,6 +6,12 @@ The Summit Active Analytics Platform is a retail and ecommerce analytics project
 
 This project focuses on building an internal analytics product rather than a customer-facing ecommerce storefront. It combines SQL, PostgreSQL, Python, and Power BI to turn mock retail data into business intelligence dashboards and decision-support recommendations.
 
+## Case Study
+
+A detailed case study explaining the business problem, dashboard design, data model, recommendation logic, and project decisions is available here:
+
+[Read the full case study](docs/case_study.md)
+
 ## Mock Brand
 
 **Summit Active** is a mock premium athleisure company selling performance-focused lifestyle apparel across ecommerce, retail, and wholesale channels.
@@ -219,7 +225,7 @@ athleisure-analytics-platform/
 ### 1. Clone the repository
 
 ```bash
-git clone <repo-url>
+git clone <https://github.com/Gavin-Cote/athleisure-analytics-platform>
 cd athleisure-analytics-platform
 ```
 
